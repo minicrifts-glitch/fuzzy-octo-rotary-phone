@@ -80,15 +80,34 @@
     },
     "done": true
   },
-  "lootr:1chest": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "opened_chest": "2025-09-06 02:23:25 +0000"
+      "killed_something": "2025-09-06 02:14:36 +0000"
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "iron_helmet": "2025-09-06 02:24:06 +0000"
+      "get_stone": "2025-09-06 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-06 02:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-09-06 02:22:35 +0000",
+      "bread": "2025-09-06 02:24:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-06 02:22:35 +0000"
     },
     "done": true
   },
@@ -98,15 +117,15 @@
     },
     "done": false
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "biomesoplenty:biomesoplenty/root": {
     "criteria": {
-      "slept_in_bed": "2025-09-06 02:28:52 +0000"
+      "coniferous_forest": "2025-09-06 02:22:42 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "lootr:1chest": {
     "criteria": {
-      "killed_something": "2025-09-06 02:14:36 +0000"
+      "opened_chest": "2025-09-06 02:23:25 +0000"
     },
     "done": true
   },
@@ -115,6 +134,30 @@
       "opened_chest": "2025-09-06 02:23:25 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-09-06 02:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-09-06 02:24:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-06 02:24:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-06 02:28:52 +0000"
+    },
+    "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
@@ -134,46 +177,9 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:story/iron_tools": {
     "criteria": {
-      "beef": "2025-09-06 02:22:35 +0000",
-      "bread": "2025-09-06 02:24:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-09-06 02:15:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-06 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-09-06 02:15:42 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "cabbage_seeds": "2025-09-06 02:23:56 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "coniferous_forest": "2025-09-06 02:22:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-09-06 02:24:07 +0000"
+      "iron_pickaxe": "2025-09-06 02:38:13 +0000"
     },
     "done": true
   },
