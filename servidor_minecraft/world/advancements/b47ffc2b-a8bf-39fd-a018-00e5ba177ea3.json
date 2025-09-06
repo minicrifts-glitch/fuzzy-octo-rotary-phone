@@ -67,45 +67,45 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-09-06 03:27:03 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
+      "minecraft:stony_shore": "2025-09-06 03:41:47 +0000",
+      "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
+      "minecraft:forest": "2025-09-06 03:42:30 +0000",
       "minecraft:plains": "2025-09-06 02:17:44 +0000"
     },
     "done": false
   },
-  "lootr:1chest": {
+  "minecraft:husbandry/root": {
     "criteria": {
-      "opened_chest": "2025-09-06 02:42:51 +0000"
+      "consumed_item": "2025-09-06 02:36:48 +0000"
     },
     "done": true
   },
-  "idas:castle": {
+  "alexsmobs:alexsmobs/root": {
     "criteria": {
-      "in_castle": "2025-09-06 02:41:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-09-06 03:04:50 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/all_biomes": {
-    "criteria": {
-      "coniferous_forest": "2025-09-06 03:03:10 +0000",
-      "fir_clearing": "2025-09-06 02:53:31 +0000"
-    },
-    "done": false
-  },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-09-06 02:47:24 +0000"
+      "useitem": "2025-09-06 02:36:48 +0000"
     },
     "done": true
   },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-09-06 02:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "beef": "2025-09-06 02:39:50 +0000",
+      "mutton": "2025-09-06 02:41:38 +0000",
+      "bread": "2025-09-06 02:52:06 +0000",
+      "carrot": "2025-09-06 03:38:04 +0000"
+    },
+    "done": false
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-09-06 02:41:25 +0000"
     },
     "done": true
   },
@@ -116,47 +116,9 @@
     },
     "done": false
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "lootr:1barrel": {
     "criteria": {
-      "minecraft:skeleton": "2025-09-06 03:05:46 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-09-06 02:43:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/kill_a_mob": {
-    "criteria": {
-      "minecraft:skeleton": "2025-09-06 03:05:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "beef": "2025-09-06 02:39:50 +0000",
-      "mutton": "2025-09-06 02:41:38 +0000",
-      "bread": "2025-09-06 02:52:06 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-09-06 02:53:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-06 02:36:48 +0000"
-    },
-    "done": true
-  },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-09-06 03:03:40 +0000"
+      "opened_barrel": "2025-09-06 02:42:09 +0000"
     },
     "done": true
   },
@@ -166,17 +128,42 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/root": {
+  "minecraft:story/smelt_iron": {
     "criteria": {
-      "useitem": "2025-09-06 02:36:48 +0000"
+      "iron": "2025-09-06 02:42:31 +0000"
     },
     "done": true
   },
-  "lootr:1barrel": {
+  "lootr:1chest": {
     "criteria": {
-      "opened_barrel": "2025-09-06 02:42:09 +0000"
+      "opened_chest": "2025-09-06 02:42:51 +0000"
     },
     "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-06 02:43:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-06 02:47:24 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "maple_woods": "2025-09-06 03:57:18 +0000",
+      "coniferous_forest": "2025-09-06 03:03:10 +0000",
+      "aspen_glade": "2025-09-06 03:58:14 +0000",
+      "seasonal_forest": "2025-09-06 03:57:09 +0000",
+      "fir_clearing": "2025-09-06 02:53:31 +0000",
+      "pumpkin_patch": "2025-09-06 03:57:16 +0000",
+      "prairie": "2025-09-06 03:46:47 +0000",
+      "gravel_beach": "2025-09-06 03:23:05 +0000"
+    },
+    "done": false
   },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
@@ -184,9 +171,57 @@
     },
     "done": true
   },
-  "minecraft:story/smelt_iron": {
+  "minecraft:story/mine_stone": {
     "criteria": {
-      "iron": "2025-09-06 02:42:31 +0000"
+      "get_stone": "2025-09-06 02:53:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-09-06 03:04:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-06 03:05:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:skeleton": "2025-09-06 03:05:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-09-06 03:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-06 03:25:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 03:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-06 03:53:03 +0000"
     },
     "done": true
   },

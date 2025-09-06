@@ -68,9 +68,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-09-06 02:16:35 +0000",
+      "minecraft:sunflower_plains": "2025-09-06 03:31:48 +0000",
+      "minecraft:beach": "2025-09-06 03:23:52 +0000",
       "minecraft:river": "2025-09-06 02:20:04 +0000",
       "minecraft:dripstone_caves": "2025-09-06 02:16:47 +0000",
       "minecraft:forest": "2025-09-06 03:00:04 +0000",
+      "minecraft:ocean": "2025-09-06 03:56:50 +0000",
+      "minecraft:flower_forest": "2025-09-06 03:29:41 +0000",
       "minecraft:plains": "2025-09-06 01:52:30 +0000"
     },
     "done": false
@@ -101,6 +105,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-09-06 03:59:21 +0000",
       "beef": "2025-09-06 02:22:35 +0000",
       "bread": "2025-09-06 02:24:48 +0000",
       "golden_carrot": "2025-09-06 03:02:25 +0000"
@@ -118,6 +123,7 @@
       "coniferous_forest": "2025-09-06 02:22:42 +0000",
       "redwood_forest": "2025-09-06 03:05:52 +0000",
       "dune_beach": "2025-09-06 03:10:57 +0000",
+      "pasture": "2025-09-06 03:26:50 +0000",
       "prairie": "2025-09-06 03:08:02 +0000"
     },
     "done": false
@@ -169,7 +175,9 @@
     "criteria": {
       "minecraft:pillager": "2025-09-06 02:42:53 +0000",
       "minecraft:skeleton": "2025-09-06 02:29:23 +0000",
-      "minecraft:vindicator": "2025-09-06 02:47:37 +0000"
+      "minecraft:vindicator": "2025-09-06 02:47:37 +0000",
+      "minecraft:spider": "2025-09-06 03:57:06 +0000",
+      "minecraft:zombie": "2025-09-06 03:20:13 +0000"
     },
     "done": false
   },
@@ -185,33 +193,9 @@
     },
     "done": true
   },
-  "idas:castle": {
-    "criteria": {
-      "in_castle": "2025-09-06 02:54:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-09-06 02:48:23 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-09-06 03:01:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-06 02:38:13 +0000"
-    },
-    "done": true
-  },
-  "create:track_0": {
-    "criteria": {
-      "0": "2025-09-06 03:01:19 +0000"
     },
     "done": true
   },
@@ -221,15 +205,69 @@
     },
     "done": true
   },
-  "lootr:25loot": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "loot_stat": "2025-09-06 03:03:28 +0000"
+      "voluntary_exile": "2025-09-06 02:48:23 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-09-06 02:54:09 +0000"
     },
     "done": true
   },
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-09-06 02:54:23 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-06 03:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-09-06 03:01:19 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-06 03:24:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-06 03:28:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-06 03:34:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-06 03:49:04 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-06 03:50:19 +0000"
     },
     "done": true
   },
