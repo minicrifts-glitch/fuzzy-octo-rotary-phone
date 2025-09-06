@@ -102,7 +102,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-09-06 02:22:35 +0000",
-      "bread": "2025-09-06 02:24:48 +0000"
+      "bread": "2025-09-06 02:24:48 +0000",
+      "golden_carrot": "2025-09-06 03:02:25 +0000"
     },
     "done": false
   },
@@ -114,7 +115,10 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "coniferous_forest": "2025-09-06 02:22:42 +0000"
+      "coniferous_forest": "2025-09-06 02:22:42 +0000",
+      "redwood_forest": "2025-09-06 03:05:52 +0000",
+      "dune_beach": "2025-09-06 03:10:57 +0000",
+      "prairie": "2025-09-06 03:08:02 +0000"
     },
     "done": false
   },
@@ -193,15 +197,33 @@
     },
     "done": true
   },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-06 03:01:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-06 02:38:13 +0000"
     },
     "done": true
   },
+  "create:track_0": {
+    "criteria": {
+      "0": "2025-09-06 03:01:19 +0000"
+    },
+    "done": true
+  },
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-06 02:46:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 03:03:28 +0000"
     },
     "done": true
   },
