@@ -2617,3 +2617,11 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [06Sep2025 02:53:49.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Stone Age]
 [06Sep2025 02:54:09.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII has made the advancement [Castle]
 [06Sep2025 02:54:23.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII has made the advancement [Barrel Booty]
+[06Sep2025 03:00:33.247] [Worker-Main-1/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"alienevo:code_tablet_selfdestruct"}
+[06Sep2025 03:03:28.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII has made the advancement [Close Quarters]
+[06Sep2025 03:03:40.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Disme A Dozen]
+[06Sep2025 03:04:03.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUSVII> zzzz
+[06Sep2025 03:04:14.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZEUSVII> 8==========3------------
+[06Sep2025 03:04:31.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[06Sep2025 03:04:31.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Duerman perras<--[HERE]
+[06Sep2025 03:04:50.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Suit Up]

@@ -70,6 +70,7 @@
       "minecraft:cherry_grove": "2025-09-06 02:16:35 +0000",
       "minecraft:river": "2025-09-06 02:20:04 +0000",
       "minecraft:dripstone_caves": "2025-09-06 02:16:47 +0000",
+      "minecraft:forest": "2025-09-06 03:00:04 +0000",
       "minecraft:plains": "2025-09-06 01:52:30 +0000"
     },
     "done": false
@@ -131,6 +132,7 @@
   },
   "lootr:social": {
     "criteria": {
+      "opened_barrel": "2025-09-06 02:54:23 +0000",
       "opened_chest": "2025-09-06 02:23:25 +0000"
     },
     "done": false
@@ -179,6 +181,12 @@
     },
     "done": true
   },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-09-06 02:54:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-09-06 02:48:23 +0000"
@@ -194,6 +202,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-06 02:46:34 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-06 02:54:23 +0000"
     },
     "done": true
   },

@@ -84,6 +84,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "fir_clearing": "2025-09-06 02:53:31 +0000"
+    },
+    "done": false
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-09-06 02:47:24 +0000"
@@ -112,9 +118,16 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-09-06 02:39:50 +0000",
-      "mutton": "2025-09-06 02:41:38 +0000"
+      "mutton": "2025-09-06 02:41:38 +0000",
+      "bread": "2025-09-06 02:52:06 +0000"
     },
     "done": false
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-06 02:53:49 +0000"
+    },
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -137,6 +150,12 @@
   "lootr:1barrel": {
     "criteria": {
       "opened_barrel": "2025-09-06 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "fir_clearing": "2025-09-06 02:53:31 +0000"
     },
     "done": true
   },
