@@ -72,15 +72,47 @@
     },
     "done": false
   },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-09-06 02:42:51 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-09-06 02:41:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-06 02:47:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-09-06 02:36:54 +0000"
     },
     "done": true
   },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-09-06 02:42:09 +0000",
+      "opened_chest": "2025-09-06 02:42:51 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-09-06 02:43:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beef": "2025-09-06 02:39:50 +0000"
+      "beef": "2025-09-06 02:39:50 +0000",
+      "mutton": "2025-09-06 02:41:38 +0000"
     },
     "done": false
   },
@@ -90,9 +122,27 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-06 02:42:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-09-06 02:36:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-06 02:42:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-06 02:42:31 +0000"
     },
     "done": true
   },

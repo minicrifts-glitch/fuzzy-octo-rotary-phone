@@ -161,7 +161,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-09-06 02:29:23 +0000"
+      "minecraft:pillager": "2025-09-06 02:42:53 +0000",
+      "minecraft:skeleton": "2025-09-06 02:29:23 +0000",
+      "minecraft:vindicator": "2025-09-06 02:47:37 +0000"
     },
     "done": false
   },
@@ -177,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-06 02:48:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-06 02:38:13 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 02:46:34 +0000"
     },
     "done": true
   },
