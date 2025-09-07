@@ -2755,3 +2755,65 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 19:49:19.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-116, y=111, z=-57} BlockPos{x=-116, y=111, z=-56}
 [07Sep2025 19:49:19.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-116, y=111, z=-57} BlockPos{x=-116, y=111, z=-56}
 [07Sep2025 19:54:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Scarlet Persecutor
+[07Sep2025 20:52:55.555] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[07Sep2025 20:53:19.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved too quickly! -9.086511800035396,0.0,-17.95809806751845
+[07Sep2025 20:53:21.810] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.810] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.811] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.811] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.811] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.812] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.812] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.813] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.814] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.815] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.815] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.843] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.843] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.844] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.844] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.846] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.847] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.849] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:21.850] [Worker-Main-195/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.113] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.114] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.114] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.114] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.136] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.137] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.166] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.169] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.169] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.277] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.279] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.279] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.279] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.280] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.281] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.281] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.282] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.282] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.283] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.283] [Worker-Main-196/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.578] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.578] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.638] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.638] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:22.643] [Worker-Main-212/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.569] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.583] [Worker-Main-208/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"quark:orange_rune"}
+[07Sep2025 20:53:23.583] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.584] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.584] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.584] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.584] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:23.584] [Worker-Main-208/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:24.911] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:24.911] [Worker-Main-213/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 20:53:38.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran has completed the challenge [Pillager Fortress]
+[07Sep2025 20:54:17.004] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -1206,69,-1478,minecraft:overworld as filled
+[07Sep2025 21:06:17.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hector5634[/127.172.116.68:49467] logged in with entity id 66670 at (-329.60000002384186, -37.0, -14.600000023841858)
+[07Sep2025 21:06:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 joined the game
+[07Sep2025 21:06:17.604] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (f77fa723-4555-3b84-bc56-a97e81824f4f)
+[07Sep2025 21:07:58.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tetramand: Teleported Tetramand to -269.500000, 67.500000, -206.500000]

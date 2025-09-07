@@ -79,8 +79,10 @@
       "minecraft:lukewarm_ocean": "2025-09-07 04:45:43 +0000",
       "minecraft:stony_shore": "2025-09-06 03:41:47 +0000",
       "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
+      "minecraft:swamp": "2025-09-07 20:58:03 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-07 20:55:59 +0000",
       "minecraft:desert": "2025-09-07 04:54:56 +0000",
       "minecraft:windswept_forest": "2025-09-07 03:56:53 +0000",
       "minecraft:jungle": "2025-09-07 05:36:50 +0000",
@@ -113,6 +115,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-07 20:51:18 +0000",
       "beef": "2025-09-06 02:39:50 +0000",
       "porkchop": "2025-09-07 03:37:46 +0000",
       "mutton": "2025-09-06 02:41:38 +0000",
@@ -182,6 +185,7 @@
       "lush_savanna": "2025-09-07 05:12:07 +0000",
       "highland": "2025-09-07 00:02:03 +0000",
       "jacaranda_glade": "2025-09-07 06:30:25 +0000",
+      "marsh": "2025-09-07 20:57:07 +0000",
       "wetland": "2025-09-07 03:57:53 +0000",
       "old_growth_woodland": "2025-09-07 05:12:10 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
@@ -241,6 +245,7 @@
       "minecraft:zoglin": "2025-09-07 03:59:25 +0000",
       "minecraft:spider": "2025-09-07 04:49:31 +0000",
       "minecraft:creeper": "2025-09-07 07:21:08 +0000",
+      "minecraft:witch": "2025-09-07 20:57:35 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:enderman": "2025-09-07 18:18:58 +0000",
@@ -461,6 +466,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-07 07:44:29 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-07 20:53:38 +0000"
     },
     "done": true
   },
