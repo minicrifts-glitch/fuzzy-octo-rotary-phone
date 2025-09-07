@@ -2672,3 +2672,15 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 17:13:58.347] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
 [07Sep2025 17:13:58.374] [Server thread/WARN] [ModernFix/]: Dedicated server took 64.065 seconds to load
 [07Sep2025 17:14:00.882] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[07Sep2025 17:41:40.990] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hector5634[/127.172.116.68:39085] logged in with entity id 259 at (-292.8748027517362, 64.0, -224.58141909144612)
+[07Sep2025 17:41:41.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 joined the game
+[07Sep2025 17:41:41.777] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (f77fa723-4555-3b84-bc56-a97e81824f4f)
+[07Sep2025 17:41:50.406] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9381ms or 187 ticks behind
+[07Sep2025 17:42:44.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nothing changed. The player already is an operator
+[07Sep2025 17:42:54.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Set own game mode to Creative Mode]
+[07Sep2025 17:42:57.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 lost connection: Disconnected
+[07Sep2025 17:42:57.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 left the game
+[07Sep2025 17:45:25.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Hector5634[/127.172.116.68:50115] logged in with entity id 812 at (-292.6633526238844, 64.0, -229.6739118294964)
+[07Sep2025 17:45:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 joined the game
+[07Sep2025 17:45:25.556] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (f77fa723-4555-3b84-bc56-a97e81824f4f)
+[07Sep2025 17:45:41.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Set own game mode to Survival Mode]
