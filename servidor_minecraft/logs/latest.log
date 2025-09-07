@@ -2722,3 +2722,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 18:22:14.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Corpse Fly
 [07Sep2025 18:26:07.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvanic Mechamorph was slain by Petrosapien
 [07Sep2025 18:26:13.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Petrosapien]
+[07Sep2025 18:28:10.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved too quickly! -8.833893904105537,0.03116894783752855,5.060039368267127
+[07Sep2025 18:31:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vulpimancer: Teleported Vulpimancer to Hector5634]
+[07Sep2025 18:33:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran was slain by Vulpimancer
