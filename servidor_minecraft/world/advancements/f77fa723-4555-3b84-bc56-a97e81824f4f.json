@@ -137,6 +137,7 @@
     "criteria": {
       "cooked_mutton": "2025-09-06 02:20:35 +0000",
       "sweet_berries": "2025-09-06 02:26:01 +0000",
+      "porkchop": "2025-09-07 01:39:31 +0000",
       "bread": "2025-09-07 01:02:50 +0000",
       "golden_carrot": "2025-09-07 01:00:56 +0000"
     },
@@ -231,6 +232,18 @@
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-09-07 01:10:55 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-09-07 01:34:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-07 02:56:29 +0000"
     },
     "done": true
   },

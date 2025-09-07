@@ -67,7 +67,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-07 02:54:50 +0000",
+      "minecraft:frozen_river": "2025-09-07 02:42:11 +0000",
+      "minecraft:beach": "2025-09-07 02:54:01 +0000",
       "minecraft:river": "2025-09-06 03:36:07 +0000",
+      "minecraft:snowy_plains": "2025-09-07 02:39:33 +0000",
+      "minecraft:cold_ocean": "2025-09-07 02:59:23 +0000",
       "minecraft:forest": "2025-09-07 00:42:12 +0000",
       "minecraft:plains": "2025-09-06 03:32:17 +0000"
     },
@@ -87,8 +92,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2025-09-07 02:24:04 +0000",
+      "rocky_shrubland": "2025-09-07 02:23:36 +0000",
       "highland": "2025-09-06 03:41:51 +0000",
       "jacaranda_glade": "2025-09-07 00:49:21 +0000",
+      "maple_woods": "2025-09-07 02:59:51 +0000",
       "orchard": "2025-09-06 04:04:58 +0000",
       "overgrown_greens": "2025-09-07 00:50:23 +0000",
       "coniferous_forest": "2025-09-06 03:59:48 +0000",
@@ -97,8 +105,11 @@
       "aspen_glade": "2025-09-06 03:33:53 +0000",
       "seasonal_forest": "2025-09-06 03:36:14 +0000",
       "lavender_field": "2025-09-06 03:53:18 +0000",
+      "fir_clearing": "2025-09-07 02:29:38 +0000",
       "pumpkin_patch": "2025-09-06 03:35:07 +0000",
-      "prairie": "2025-09-06 03:44:26 +0000"
+      "prairie": "2025-09-06 03:44:26 +0000",
+      "tundra": "2025-09-07 02:41:43 +0000",
+      "gravel_beach": "2025-09-07 02:34:44 +0000"
     },
     "done": false
   },
@@ -130,9 +141,10 @@
   },
   "create:wrench_goggles": {
     "criteria": {
-      "0": "2025-09-06 03:36:48 +0000"
+      "0": "2025-09-06 03:36:48 +0000",
+      "1": "2025-09-07 02:48:53 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
@@ -143,6 +155,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-06 04:06:24 +0000",
+      "cooked_mutton": "2025-09-07 01:48:43 +0000",
       "cooked_beef": "2025-09-07 00:30:59 +0000",
       "beef": "2025-09-06 04:53:17 +0000",
       "apple": "2025-09-06 03:48:03 +0000",
@@ -251,6 +264,36 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-09-07 01:18:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-09-07 01:42:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-09-07 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-07 02:43:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 02:45:21 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 02:24:36 +0000"
     },
     "done": true
   },

@@ -101,6 +101,7 @@
       "beef": "2025-09-06 02:39:50 +0000",
       "mutton": "2025-09-06 02:41:38 +0000",
       "bread": "2025-09-06 02:52:06 +0000",
+      "rotten_flesh": "2025-09-07 01:59:21 +0000",
       "carrot": "2025-09-06 03:38:04 +0000"
     },
     "done": false
@@ -195,6 +196,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-06 03:05:46 +0000",
+      "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000"
     },
     "done": false
@@ -268,6 +270,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-09-07 01:21:32 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-09-07 01:33:02 +0000"
     },
     "done": true
   },
