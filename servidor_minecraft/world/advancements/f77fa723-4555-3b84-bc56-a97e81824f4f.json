@@ -140,6 +140,7 @@
       "cooked_beef": "2025-09-07 18:29:38 +0000",
       "baked_potato": "2025-09-07 04:24:39 +0000",
       "porkchop": "2025-09-07 01:39:31 +0000",
+      "apple": "2025-09-07 18:48:19 +0000",
       "bread": "2025-09-07 01:02:50 +0000",
       "golden_apple": "2025-09-07 18:11:55 +0000",
       "golden_carrot": "2025-09-07 01:00:56 +0000",
@@ -278,6 +279,12 @@
       "kill_pillager": "2025-09-07 18:04:23 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "potato": "2025-09-07 18:53:02 +0000"
+    },
+    "done": false
   },
   "quark:get_bottled_cloud": {
     "criteria": {

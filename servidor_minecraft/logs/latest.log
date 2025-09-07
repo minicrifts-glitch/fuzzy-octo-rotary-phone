@@ -2725,3 +2725,11 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 18:28:10.089] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved too quickly! -8.833893904105537,0.03116894783752855,5.060039368267127
 [07Sep2025 18:31:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vulpimancer: Teleported Vulpimancer to Hector5634]
 [07Sep2025 18:33:22.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran was slain by Vulpimancer
+[07Sep2025 18:40:01.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Hector5634]
+[07Sep2025 18:42:38.814] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved wrongly!
+[07Sep2025 18:43:21.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran was slain by Kineceleran
+[07Sep2025 18:43:46.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[07Sep2025 18:49:36.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Teleported Ectonurite to Hector5634]
+[07Sep2025 18:50:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite was slain by Hector5634
+[07Sep2025 18:50:28.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[07Sep2025 18:56:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Hector5634]
