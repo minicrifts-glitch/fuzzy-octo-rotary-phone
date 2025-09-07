@@ -117,6 +117,7 @@
       "aspen_glade": "2025-09-06 03:33:53 +0000",
       "dune_beach": "2025-09-07 03:22:26 +0000",
       "seasonal_forest": "2025-09-06 03:36:14 +0000",
+      "pasture": "2025-09-07 04:59:28 +0000",
       "lavender_field": "2025-09-06 03:53:18 +0000",
       "fir_clearing": "2025-09-07 02:29:38 +0000",
       "pumpkin_patch": "2025-09-06 03:35:07 +0000",
@@ -331,15 +332,15 @@
     },
     "done": true
   },
-  "alienevo:galvan_capsule": {
-    "criteria": {
-      "find_galvan_capsule": "2025-09-07 04:46:22 +0000"
-    },
-    "done": true
-  },
   "lootr:100loot": {
     "criteria": {
       "loot_stat": "2025-09-07 04:42:13 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-09-07 04:46:22 +0000"
     },
     "done": true
   },

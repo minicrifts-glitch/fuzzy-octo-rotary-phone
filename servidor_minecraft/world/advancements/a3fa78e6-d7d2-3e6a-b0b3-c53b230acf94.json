@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-09-07 00:14:03 +0000",
       "minecraft:river": "2025-09-07 00:50:58 +0000",
+      "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
       "minecraft:plains": "2025-09-06 23:54:16 +0000"
     },
@@ -131,6 +132,7 @@
       "apple": "2025-09-07 00:40:25 +0000",
       "mutton": "2025-09-07 00:12:45 +0000",
       "bread": "2025-09-07 00:03:40 +0000",
+      "rotten_flesh": "2025-09-07 04:50:24 +0000",
       "cod": "2025-09-07 04:35:23 +0000",
       "carrot": "2025-09-07 01:14:15 +0000"
     },
@@ -270,11 +272,35 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rocky_shell": {
+    "criteria": {
+      "soul_heart": "2025-09-07 04:52:38 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-09-07 04:36:02 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-07 04:59:17 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-09-07 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-09-07 04:59:17 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

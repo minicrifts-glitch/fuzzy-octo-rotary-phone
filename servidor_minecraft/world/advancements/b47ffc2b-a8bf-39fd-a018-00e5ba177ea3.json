@@ -78,6 +78,7 @@
       "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
+      "minecraft:desert": "2025-09-07 04:54:56 +0000",
       "minecraft:windswept_forest": "2025-09-07 03:56:53 +0000",
       "minecraft:ocean": "2025-09-07 04:25:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-07 04:04:11 +0000",
@@ -168,6 +169,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "scrubland": "2025-09-07 04:56:10 +0000",
       "highland": "2025-09-07 00:02:03 +0000",
       "wetland": "2025-09-07 03:57:53 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
@@ -215,6 +217,7 @@
       "minecraft:pillager": "2025-09-07 03:38:09 +0000",
       "minecraft:skeleton": "2025-09-06 03:05:46 +0000",
       "minecraft:zoglin": "2025-09-07 03:59:25 +0000",
+      "minecraft:spider": "2025-09-07 04:49:31 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000"
