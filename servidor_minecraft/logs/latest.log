@@ -2702,3 +2702,16 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 18:02:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was shot by Pillager
 [07Sep2025 18:04:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Who's the Pillager Now?]
 [07Sep2025 18:05:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was shot by Pillager
+[07Sep2025 18:06:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan went up in flames
+[07Sep2025 18:10:13.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Cloud Storage]
+[07Sep2025 18:10:24.791] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 was kicked for floating too long!
+[07Sep2025 18:10:24.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Flying is not enabled on this server
+[07Sep2025 18:10:24.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite left the game
+[07Sep2025 18:10:58.733] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@275aa8fb[id=<null>,name=Juli_CT05,properties={},legacy=false] (/127.91.58.14:36963) lost connection: Disconnected
+[07Sep2025 18:11:12.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.91.58.14:38225] logged in with entity id 9273 at (-88.1365800124036, 129.67115876253342, -109.36597839536537)
+[07Sep2025 18:11:12.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[07Sep2025 18:11:12.726] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[07Sep2025 18:11:12.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[07Sep2025 18:11:12.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 left the game
+[07Sep2025 18:11:12.797] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Sep2025 18:14:13.134] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/1037, l='ServerLevel[world]', x=-383.27, y=64.00, z=-334.67] died, message: 'Villager was shot by Pillager'
