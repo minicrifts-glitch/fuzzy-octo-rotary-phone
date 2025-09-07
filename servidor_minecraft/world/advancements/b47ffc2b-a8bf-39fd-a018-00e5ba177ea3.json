@@ -67,9 +67,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-09-06 04:32:47 +0000",
       "minecraft:beach": "2025-09-06 03:27:03 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
       "minecraft:stony_shore": "2025-09-06 03:41:47 +0000",
+      "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
       "minecraft:plains": "2025-09-06 02:17:44 +0000"
@@ -154,6 +156,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "highland": "2025-09-07 00:02:03 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
       "coniferous_forest": "2025-09-06 03:03:10 +0000",
       "aspen_glade": "2025-09-06 03:58:14 +0000",
@@ -191,7 +194,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-09-06 03:05:46 +0000"
+      "minecraft:skeleton": "2025-09-06 03:05:46 +0000",
+      "minecraft:zombie": "2025-09-06 23:56:48 +0000"
     },
     "done": false
   },
@@ -213,15 +217,57 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-06 03:53:03 +0000"
+    },
+    "done": true
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-09-06 03:56:16 +0000"
     },
     "done": true
   },
-  "minecraft:story/root": {
+  "born_in_chaos_v1:horrorofthe_depths": {
     "criteria": {
-      "crafting_table": "2025-09-06 03:53:03 +0000"
+      "horrorofthe_depths_0": "2025-09-06 04:18:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-09-06 04:25:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-07 00:31:38 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-09-07 00:31:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-09-07 00:38:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-09-07 00:38:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-07 01:21:32 +0000"
     },
     "done": true
   },

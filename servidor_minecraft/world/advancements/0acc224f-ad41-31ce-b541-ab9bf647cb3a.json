@@ -68,6 +68,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:river": "2025-09-06 03:36:07 +0000",
+      "minecraft:forest": "2025-09-07 00:42:12 +0000",
       "minecraft:plains": "2025-09-06 03:32:17 +0000"
     },
     "done": false
@@ -87,8 +88,12 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-09-06 03:41:51 +0000",
+      "jacaranda_glade": "2025-09-07 00:49:21 +0000",
+      "orchard": "2025-09-06 04:04:58 +0000",
+      "overgrown_greens": "2025-09-07 00:50:23 +0000",
       "coniferous_forest": "2025-09-06 03:59:48 +0000",
       "spider_nest": "2025-09-06 03:47:01 +0000",
+      "redwood_forest": "2025-09-07 00:46:54 +0000",
       "aspen_glade": "2025-09-06 03:33:53 +0000",
       "seasonal_forest": "2025-09-06 03:36:14 +0000",
       "lavender_field": "2025-09-06 03:53:18 +0000",
@@ -106,7 +111,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-09-06 03:36:30 +0000",
-      "opened_chest": "2025-09-06 03:36:44 +0000"
+      "opened_chest": "2025-09-06 03:36:44 +0000",
+      "opened_cart": "2025-09-07 00:59:20 +0000"
     },
     "done": false
   },
@@ -136,9 +142,13 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-06 04:06:24 +0000",
+      "cooked_beef": "2025-09-07 00:30:59 +0000",
+      "beef": "2025-09-06 04:53:17 +0000",
       "apple": "2025-09-06 03:48:03 +0000",
       "bread": "2025-09-06 03:39:33 +0000",
-      "rotten_flesh": "2025-09-06 03:53:56 +0000"
+      "rotten_flesh": "2025-09-06 03:53:56 +0000",
+      "cooked_chicken": "2025-09-06 04:03:39 +0000"
     },
     "done": false
   },
@@ -163,6 +173,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-06 03:47:56 +0000",
+      "minecraft:spider": "2025-09-06 04:02:53 +0000",
+      "minecraft:creeper": "2025-09-07 00:55:01 +0000",
+      "minecraft:witch": "2025-09-07 00:56:14 +0000",
       "minecraft:cave_spider": "2025-09-06 03:49:09 +0000",
       "minecraft:zombie": "2025-09-06 03:45:04 +0000",
       "minecraft:zombie_villager": "2025-09-06 03:47:34 +0000"
@@ -190,6 +203,54 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-09-06 03:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-09-06 04:05:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-06 04:15:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-06 04:26:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-09-06 04:27:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-06 04:28:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-09-06 04:30:14 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-07 00:59:20 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-09-07 01:18:08 +0000"
     },
     "done": true
   },

@@ -84,10 +84,15 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-09-06 03:46:20 +0000",
+      "jacaranda_glade": "2025-09-06 04:10:00 +0000",
+      "maple_woods": "2025-09-06 04:17:59 +0000",
+      "orchard": "2025-09-06 04:12:32 +0000",
       "coniferous_forest": "2025-09-06 03:33:11 +0000",
+      "spider_nest": "2025-09-06 04:14:04 +0000",
       "aspen_glade": "2025-09-06 03:49:19 +0000",
       "dune_beach": "2025-09-06 03:55:13 +0000",
       "seasonal_forest": "2025-09-06 03:45:08 +0000",
+      "pasture": "2025-09-06 04:32:51 +0000",
       "lavender_field": "2025-09-06 03:50:08 +0000",
       "pumpkin_patch": "2025-09-06 03:44:54 +0000",
       "prairie": "2025-09-06 03:50:17 +0000"
@@ -113,9 +118,28 @@
     },
     "done": false
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-09-06 04:21:12 +0000",
+      "minecraft:zombie": "2025-09-06 04:04:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-06 03:54:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-09-06 04:04:05 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:grave_ravager": {
+    "criteria": {
+      "grave_ravager_0": "2025-09-06 04:10:57 +0000"
     },
     "done": true
   },
@@ -124,6 +148,8 @@
       "beef": "2025-09-06 03:41:42 +0000",
       "porkchop": "2025-09-06 03:42:34 +0000",
       "apple": "2025-09-06 04:00:20 +0000",
+      "potato": "2025-09-06 04:36:16 +0000",
+      "mutton": "2025-09-06 04:27:30 +0000",
       "bread": "2025-09-06 03:46:06 +0000",
       "golden_carrot": "2025-09-06 03:45:43 +0000"
     },
@@ -138,6 +164,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-09-06 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-09-06 04:14:17 +0000"
     },
     "done": true
   },
@@ -164,6 +196,12 @@
       "crafting_table": "2025-09-06 03:50:37 +0000"
     },
     "done": true
+  },
+  "born_in_chaos_v1:bury_them_all": {
+    "criteria": {
+      "bury_them_all_0": "2025-09-06 04:10:58 +0000"
+    },
+    "done": false
   },
   "minecraft:story/smelt_iron": {
     "criteria": {
