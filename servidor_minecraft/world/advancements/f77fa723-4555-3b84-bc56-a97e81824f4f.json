@@ -139,7 +139,8 @@
       "sweet_berries": "2025-09-06 02:26:01 +0000",
       "porkchop": "2025-09-07 01:39:31 +0000",
       "bread": "2025-09-07 01:02:50 +0000",
-      "golden_carrot": "2025-09-07 01:00:56 +0000"
+      "golden_carrot": "2025-09-07 01:00:56 +0000",
+      "carrot": "2025-09-07 03:45:09 +0000"
     },
     "done": false
   },
@@ -194,6 +195,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-09-07 03:45:27 +0000",
       "minecraft:spider": "2025-09-07 00:50:45 +0000",
       "minecraft:zombie": "2025-09-07 00:51:55 +0000"
     },

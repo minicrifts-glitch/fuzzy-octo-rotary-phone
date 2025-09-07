@@ -69,11 +69,15 @@
     "criteria": {
       "minecraft:taiga": "2025-09-07 02:54:50 +0000",
       "minecraft:frozen_river": "2025-09-07 02:42:11 +0000",
+      "minecraft:cherry_grove": "2025-09-07 04:01:25 +0000",
+      "minecraft:birch_forest": "2025-09-07 03:16:38 +0000",
       "minecraft:beach": "2025-09-07 02:54:01 +0000",
+      "minecraft:dark_forest": "2025-09-07 03:16:25 +0000",
       "minecraft:river": "2025-09-06 03:36:07 +0000",
       "minecraft:snowy_plains": "2025-09-07 02:39:33 +0000",
       "minecraft:cold_ocean": "2025-09-07 02:59:23 +0000",
       "minecraft:forest": "2025-09-07 00:42:12 +0000",
+      "minecraft:ocean": "2025-09-07 03:21:41 +0000",
       "minecraft:plains": "2025-09-06 03:32:17 +0000"
     },
     "done": false
@@ -96,20 +100,26 @@
       "rocky_shrubland": "2025-09-07 02:23:36 +0000",
       "highland": "2025-09-06 03:41:51 +0000",
       "jacaranda_glade": "2025-09-07 00:49:21 +0000",
+      "marsh": "2025-09-07 03:22:54 +0000",
+      "wetland": "2025-09-07 03:27:30 +0000",
       "maple_woods": "2025-09-07 02:59:51 +0000",
       "orchard": "2025-09-06 04:04:58 +0000",
+      "field": "2025-09-07 03:11:06 +0000",
       "overgrown_greens": "2025-09-07 00:50:23 +0000",
       "coniferous_forest": "2025-09-06 03:59:48 +0000",
       "spider_nest": "2025-09-06 03:47:01 +0000",
+      "forested_field": "2025-09-07 03:11:01 +0000",
       "redwood_forest": "2025-09-07 00:46:54 +0000",
       "aspen_glade": "2025-09-06 03:33:53 +0000",
+      "dune_beach": "2025-09-07 03:22:26 +0000",
       "seasonal_forest": "2025-09-06 03:36:14 +0000",
       "lavender_field": "2025-09-06 03:53:18 +0000",
       "fir_clearing": "2025-09-07 02:29:38 +0000",
       "pumpkin_patch": "2025-09-06 03:35:07 +0000",
       "prairie": "2025-09-06 03:44:26 +0000",
       "tundra": "2025-09-07 02:41:43 +0000",
-      "gravel_beach": "2025-09-07 02:34:44 +0000"
+      "gravel_beach": "2025-09-07 02:34:44 +0000",
+      "crag": "2025-09-07 03:21:18 +0000"
     },
     "done": false
   },
@@ -190,6 +200,7 @@
       "minecraft:creeper": "2025-09-07 00:55:01 +0000",
       "minecraft:witch": "2025-09-07 00:56:14 +0000",
       "minecraft:cave_spider": "2025-09-06 03:49:09 +0000",
+      "quark:wraith": "2025-09-07 03:12:57 +0000",
       "minecraft:zombie": "2025-09-06 03:45:04 +0000",
       "minecraft:zombie_villager": "2025-09-06 03:47:34 +0000"
     },
@@ -273,6 +284,12 @@
     },
     "done": true
   },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 02:24:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-09-07 02:33:30 +0000"
@@ -291,9 +308,21 @@
     },
     "done": true
   },
-  "lootr:25loot": {
+  "idas:wizardtower": {
     "criteria": {
-      "loot_stat": "2025-09-07 02:24:36 +0000"
+      "in_wizardtower": "2025-09-07 03:11:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-09-07 03:57:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-07 03:59:37 +0000"
     },
     "done": true
   },

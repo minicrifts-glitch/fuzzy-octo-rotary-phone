@@ -84,6 +84,7 @@
       "minecraft:jagged_peaks": "2025-09-07 00:50:30 +0000",
       "minecraft:cold_ocean": "2025-09-07 00:43:21 +0000",
       "minecraft:forest": "2025-09-06 03:00:04 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-07 04:11:01 +0000",
       "minecraft:frozen_ocean": "2025-09-07 01:32:57 +0000",
       "minecraft:ocean": "2025-09-06 03:56:50 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-07 01:04:37 +0000",
@@ -152,8 +153,10 @@
       "jacaranda_glade": "2025-09-06 04:52:03 +0000",
       "marsh": "2025-09-07 01:47:40 +0000",
       "jade_cliffs": "2025-09-07 01:59:54 +0000",
+      "cold_desert": "2025-09-07 03:41:55 +0000",
       "maple_woods": "2025-09-07 00:48:19 +0000",
       "orchard": "2025-09-06 04:49:49 +0000",
+      "field": "2025-09-07 03:28:03 +0000",
       "overgrown_greens": "2025-09-07 01:59:25 +0000",
       "mediterranean_forest": "2025-09-06 04:39:26 +0000",
       "coniferous_forest": "2025-09-06 02:22:42 +0000",
@@ -161,6 +164,7 @@
       "redwood_forest": "2025-09-06 03:05:52 +0000",
       "aspen_glade": "2025-09-07 00:46:53 +0000",
       "dune_beach": "2025-09-06 03:10:57 +0000",
+      "seasonal_forest": "2025-09-07 03:43:35 +0000",
       "pasture": "2025-09-06 03:26:50 +0000",
       "volcanic_plains": "2025-09-07 01:55:36 +0000",
       "lavender_field": "2025-09-06 04:49:35 +0000",
@@ -171,6 +175,7 @@
       "snowy_coniferous_forest": "2025-09-07 01:31:48 +0000",
       "snowy_fir_clearing": "2025-09-07 01:32:13 +0000",
       "glowing_grotto": "2025-09-07 01:09:02 +0000",
+      "gravel_beach": "2025-09-07 03:53:40 +0000",
       "rainforest": "2025-09-07 01:55:45 +0000",
       "crag": "2025-09-07 00:49:45 +0000",
       "snowy_maple_woods": "2025-09-07 01:31:58 +0000"
@@ -433,6 +438,18 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-09-07 02:40:30 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-07 03:38:36 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-09-07 03:57:37 +0000"
     },
     "done": true
   },

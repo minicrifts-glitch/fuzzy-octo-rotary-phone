@@ -33,6 +33,7 @@
     "criteria": {
       "minecraft:cherry_grove": "2025-09-07 00:14:03 +0000",
       "minecraft:river": "2025-09-07 00:50:58 +0000",
+      "minecraft:forest": "2025-09-07 03:12:18 +0000",
       "minecraft:plains": "2025-09-06 23:54:16 +0000"
     },
     "done": false
@@ -233,6 +234,36 @@
   "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
       "dismantledto_bones_0": "2025-09-07 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:potion_jar": {
+    "criteria": {
+      "has_potion_jar": "2025-09-07 03:32:39 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:source_jar": {
+    "criteria": {
+      "has_source_jar": "2025-09-07 03:32:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:imbuement_chamber": {
+    "criteria": {
+      "has_imbuement_chamber": "2025-09-07 03:32:41 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-09-07 03:33:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-09-07 03:40:58 +0000"
     },
     "done": true
   },

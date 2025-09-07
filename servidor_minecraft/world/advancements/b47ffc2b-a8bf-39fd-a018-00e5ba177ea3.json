@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-07 03:56:50 +0000",
       "minecraft:cherry_grove": "2025-09-06 04:32:47 +0000",
       "minecraft:beach": "2025-09-06 03:27:03 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
@@ -74,6 +75,8 @@
       "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
+      "minecraft:windswept_forest": "2025-09-07 03:56:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-09-07 04:04:11 +0000",
       "minecraft:plains": "2025-09-06 02:17:44 +0000"
     },
     "done": false
@@ -99,8 +102,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-09-06 02:39:50 +0000",
+      "porkchop": "2025-09-07 03:37:46 +0000",
       "mutton": "2025-09-06 02:41:38 +0000",
       "bread": "2025-09-06 02:52:06 +0000",
+      "golden_apple": "2025-09-07 03:32:37 +0000",
       "rotten_flesh": "2025-09-07 01:59:21 +0000",
       "carrot": "2025-09-06 03:38:04 +0000"
     },
@@ -158,13 +163,17 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-09-07 00:02:03 +0000",
+      "wetland": "2025-09-07 03:57:53 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
+      "field": "2025-09-07 03:57:18 +0000",
+      "overgrown_greens": "2025-09-07 04:09:16 +0000",
       "coniferous_forest": "2025-09-06 03:03:10 +0000",
       "aspen_glade": "2025-09-06 03:58:14 +0000",
       "seasonal_forest": "2025-09-06 03:57:09 +0000",
       "fir_clearing": "2025-09-06 02:53:31 +0000",
       "pumpkin_patch": "2025-09-06 03:57:16 +0000",
       "prairie": "2025-09-06 03:46:47 +0000",
+      "grassland": "2025-09-07 04:11:21 +0000",
       "gravel_beach": "2025-09-06 03:23:05 +0000"
     },
     "done": false
@@ -195,8 +204,11 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-07 03:38:09 +0000",
       "minecraft:skeleton": "2025-09-06 03:05:46 +0000",
+      "minecraft:zoglin": "2025-09-07 03:59:25 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
+      "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000"
     },
     "done": false
@@ -276,6 +288,30 @@
   "idas:apothecary_abode": {
     "criteria": {
       "in_apothecary_abode": "2025-09-07 01:33:02 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-09-07 03:46:44 +0000"
+    },
+    "done": false
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-09-07 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 03:47:40 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-09-07 03:36:56 +0000"
     },
     "done": true
   },
