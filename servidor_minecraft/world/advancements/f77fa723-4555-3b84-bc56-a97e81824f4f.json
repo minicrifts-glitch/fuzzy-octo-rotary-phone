@@ -142,6 +142,8 @@
       "beef": "2025-09-07 18:58:47 +0000",
       "porkchop": "2025-09-07 01:39:31 +0000",
       "apple": "2025-09-07 18:48:19 +0000",
+      "spider_eye": "2025-09-07 19:26:39 +0000",
+      "potato": "2025-09-07 19:26:31 +0000",
       "bread": "2025-09-07 01:02:50 +0000",
       "golden_apple": "2025-09-07 18:11:55 +0000",
       "rotten_flesh": "2025-09-07 18:56:13 +0000",
@@ -205,6 +207,10 @@
       "minecraft:skeleton": "2025-09-07 03:45:27 +0000",
       "minecraft:vindicator": "2025-09-07 05:05:33 +0000",
       "minecraft:spider": "2025-09-07 00:50:45 +0000",
+      "minecraft:creeper": "2025-09-07 19:27:04 +0000",
+      "quark:forgotten": "2025-09-07 19:41:57 +0000",
+      "minecraft:witch": "2025-09-07 19:25:33 +0000",
+      "minecraft:cave_spider": "2025-09-07 19:25:53 +0000",
       "minecraft:zombie": "2025-09-07 00:51:55 +0000"
     },
     "done": false
@@ -276,6 +282,18 @@
     },
     "done": true
   },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-09-07 19:41:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_metallurgy": {
+    "criteria": {
+      "dark_metallurgy_0": "2025-09-07 19:38:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/whos_the_pillager_now": {
     "criteria": {
       "kill_pillager": "2025-09-07 18:04:23 +0000"
@@ -293,6 +311,12 @@
       "potato": "2025-09-07 18:53:02 +0000"
     },
     "done": false
+  },
+  "born_in_chaos_v1:deceived_hopes": {
+    "criteria": {
+      "deceived_hopes_0": "2025-09-07 19:27:54 +0000"
+    },
+    "done": true
   },
   "quark:get_bottled_cloud": {
     "criteria": {

@@ -2745,3 +2745,10 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 19:11:11.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to -109.500000, 112.500000, -66.500000]
 [07Sep2025 19:14:32.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Teleported Hector5634 to -269.500000, 67.500000, -206.500000]
 [07Sep2025 19:18:37.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved wrongly!
+[07Sep2025 19:27:54.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand has made the advancement [Deceived Hopes]
+[07Sep2025 19:36:53.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand was shot by Skeleton
+[07Sep2025 19:37:00.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Teleported Hector5634 to -290.500000, -28.500000, -119.500000]
+[07Sep2025 19:38:30.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Dark Metallurgy]
+[07Sep2025 19:41:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand has reached the goal [This Belongs in a Museum]
+[07Sep2025 19:43:04.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 lost connection: Disconnected
+[07Sep2025 19:43:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand left the game
