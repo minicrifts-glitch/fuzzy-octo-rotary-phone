@@ -75,9 +75,11 @@
       "minecraft:dark_forest": "2025-09-07 03:16:25 +0000",
       "minecraft:river": "2025-09-06 03:36:07 +0000",
       "minecraft:snowy_plains": "2025-09-07 02:39:33 +0000",
+      "minecraft:stony_shore": "2025-09-07 04:45:27 +0000",
       "minecraft:cold_ocean": "2025-09-07 02:59:23 +0000",
       "minecraft:forest": "2025-09-07 00:42:12 +0000",
       "minecraft:ocean": "2025-09-07 03:21:41 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-07 04:42:47 +0000",
       "minecraft:plains": "2025-09-06 03:32:17 +0000"
     },
     "done": false
@@ -101,7 +103,9 @@
       "highland": "2025-09-06 03:41:51 +0000",
       "jacaranda_glade": "2025-09-07 00:49:21 +0000",
       "marsh": "2025-09-07 03:22:54 +0000",
+      "jade_cliffs": "2025-09-07 04:41:29 +0000",
       "wetland": "2025-09-07 03:27:30 +0000",
+      "mystic_grove": "2025-09-07 04:48:09 +0000",
       "maple_woods": "2025-09-07 02:59:51 +0000",
       "orchard": "2025-09-06 04:04:58 +0000",
       "field": "2025-09-07 03:11:06 +0000",
@@ -117,6 +121,7 @@
       "fir_clearing": "2025-09-07 02:29:38 +0000",
       "pumpkin_patch": "2025-09-06 03:35:07 +0000",
       "prairie": "2025-09-06 03:44:26 +0000",
+      "grassland": "2025-09-07 04:42:29 +0000",
       "tundra": "2025-09-07 02:41:43 +0000",
       "gravel_beach": "2025-09-07 02:34:44 +0000",
       "crag": "2025-09-07 03:21:18 +0000"
@@ -323,6 +328,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-09-07 03:59:37 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-09-07 04:46:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 04:42:13 +0000"
     },
     "done": true
   },

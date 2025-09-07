@@ -68,15 +68,21 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-09-07 03:56:50 +0000",
+      "minecraft:deep_ocean": "2025-09-07 04:33:12 +0000",
       "minecraft:cherry_grove": "2025-09-06 04:32:47 +0000",
+      "minecraft:birch_forest": "2025-09-07 04:26:50 +0000",
       "minecraft:beach": "2025-09-06 03:27:03 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-07 04:45:43 +0000",
       "minecraft:stony_shore": "2025-09-06 03:41:47 +0000",
       "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
       "minecraft:windswept_forest": "2025-09-07 03:56:53 +0000",
+      "minecraft:ocean": "2025-09-07 04:25:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-07 04:04:11 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-07 04:27:23 +0000",
+      "minecraft:savanna": "2025-09-07 04:47:14 +0000",
       "minecraft:plains": "2025-09-06 02:17:44 +0000"
     },
     "done": false
@@ -168,7 +174,9 @@
       "field": "2025-09-07 03:57:18 +0000",
       "overgrown_greens": "2025-09-07 04:09:16 +0000",
       "coniferous_forest": "2025-09-06 03:03:10 +0000",
+      "redwood_forest": "2025-09-07 04:26:06 +0000",
       "aspen_glade": "2025-09-06 03:58:14 +0000",
+      "dune_beach": "2025-09-07 04:25:34 +0000",
       "seasonal_forest": "2025-09-06 03:57:09 +0000",
       "fir_clearing": "2025-09-06 02:53:31 +0000",
       "pumpkin_patch": "2025-09-06 03:57:16 +0000",
@@ -291,17 +299,17 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-09-07 03:36:56 +0000"
+    },
+    "done": true
+  },
   "create:wrench_goggles": {
     "criteria": {
       "1": "2025-09-07 03:46:44 +0000"
     },
     "done": false
-  },
-  "idas:wizardtower": {
-    "criteria": {
-      "in_wizardtower": "2025-09-07 03:58:52 +0000"
-    },
-    "done": true
   },
   "lootr:50loot": {
     "criteria": {
@@ -309,9 +317,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/banana_slug": {
+  "idas:wizardtower": {
     "criteria": {
-      "killed": "2025-09-07 03:36:56 +0000"
+      "in_wizardtower": "2025-09-07 03:58:52 +0000"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-09-07 04:29:29 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:sneak_grove": {
+    "criteria": {
+      "sneak_grove": "2025-09-07 04:47:51 +0000"
     },
     "done": true
   },
