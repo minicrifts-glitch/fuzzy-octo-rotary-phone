@@ -2687,3 +2687,18 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 17:55:46.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.91.58.14:48565] logged in with entity id 1332 at (-107.31344973635692, 113.0, -72.55018023695942)
 [07Sep2025 17:55:46.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
 [07Sep2025 17:55:46.924] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[07Sep2025 17:57:40.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Hector5634]
+[07Sep2025 17:58:49.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 1 [Prototype Omnitrix (Magenta)] to Hector5634]
+[07Sep2025 17:59:21.191] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 was kicked for floating too long!
+[07Sep2025 17:59:21.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[07Sep2025 17:59:21.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran left the game
+[07Sep2025 17:59:21.246] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[07Sep2025 17:59:35.307] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.91.58.14:50243] logged in with entity id 2156 at (-330.3280713137932, 68.45389257558185, -289.7819589893371)
+[07Sep2025 17:59:35.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[07Sep2025 17:59:35.726] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[07Sep2025 18:00:03.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Voluntary Exile]
+[07Sep2025 18:01:16.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran was pummeled by Pyronite
+[07Sep2025 18:01:22.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Pyronite]
+[07Sep2025 18:02:18.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was shot by Pillager
+[07Sep2025 18:04:23.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Who's the Pillager Now?]
+[07Sep2025 18:05:53.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was shot by Pillager

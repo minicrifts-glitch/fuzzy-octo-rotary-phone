@@ -397,15 +397,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "idas:hunters_cabin": {
     "criteria": {
-      "voluntary_exile": "2025-09-07 06:58:38 +0000"
+      "in_hunters_cabin": "2025-09-07 06:15:59 +0000"
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
+  "minecraft:adventure/voluntary_exile": {
     "criteria": {
-      "fighting_nightmares_0": "2025-09-07 07:41:06 +0000"
+      "voluntary_exile": "2025-09-07 06:58:38 +0000"
     },
     "done": true
   },
@@ -415,9 +415,15 @@
     },
     "done": true
   },
-  "lootr:100loot": {
+  "born_in_chaos_v1:exorcism": {
     "criteria": {
-      "loot_stat": "2025-09-07 07:38:43 +0000"
+      "exorcism_0": "2025-09-07 07:20:46 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-07 07:20:46 +0000"
     },
     "done": true
   },
@@ -433,6 +439,18 @@
     },
     "done": true
   },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 07:38:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-07 07:41:06 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:big_boy": {
     "criteria": {
       "big_boy_0": "2025-09-07 07:44:29 +0000"
@@ -442,24 +460,6 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-07 07:44:29 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:exorcism": {
-    "criteria": {
-      "exorcism_0": "2025-09-07 07:20:46 +0000"
-    },
-    "done": true
-  },
-  "idas:hunters_cabin": {
-    "criteria": {
-      "in_hunters_cabin": "2025-09-07 06:15:59 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:junior_summoner": {
-    "criteria": {
-      "junior_summoner_0": "2025-09-07 07:20:46 +0000"
     },
     "done": true
   },
