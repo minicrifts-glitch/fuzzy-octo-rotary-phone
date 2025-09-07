@@ -2733,3 +2733,8 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 18:50:27.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite was slain by Hector5634
 [07Sep2025 18:50:28.053] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
 [07Sep2025 18:56:43.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Hector5634]
+[07Sep2025 18:57:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran was slain by Piscciss Volann
+[07Sep2025 19:00:38.406] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[07Sep2025 19:02:25.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved wrongly!
+[07Sep2025 19:02:34.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 moved wrongly!
+[07Sep2025 19:03:59.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Piscciss Volann: Teleported Piscciss Volann to Juli_CT05]
