@@ -2829,3 +2829,98 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 05:01:44.861] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Yulian0089 lost connection: Disconnected
 [07Sep2025 05:01:44.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 left the game
 [07Sep2025 05:03:39.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 was slain by Vindicator
+[07Sep2025 05:05:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Ol' Betsy]
+[07Sep2025 05:05:33.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 has made the advancement [Take Aim]
+[07Sep2025 05:07:14.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 was blown up by Creeper
+[07Sep2025 05:07:57.700] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:08:42.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 hit the ground too hard
+[07Sep2025 05:08:55.861] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:09:31.794] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 3126,64,-4086,minecraft:overworld as filled
+[07Sep2025 05:10:03.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Not Today, Thank You]
+[07Sep2025 05:10:28.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Double Trouble]
+[07Sep2025 05:10:53.346] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 3206,61,-4262,minecraft:overworld as filled
+[07Sep2025 05:11:16.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Yulian0089[/127.139.172.136:47623] logged in with entity id 43982 at (1063.2915890179358, 109.0, 1123.272552508204)
+[07Sep2025 05:11:16.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 joined the game
+[07Sep2025 05:11:17.202] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (0acc224f-ad41-31ce-b541-ab9bf647cb3a)
+[07Sep2025 05:11:39.187] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 lost connection: Disconnected
+[07Sep2025 05:11:39.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 left the game
+[07Sep2025 05:13:12.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to Juli_CT05]
+[07Sep2025 05:13:18.945] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 3686,75,-4342,minecraft:overworld as filled
+[07Sep2025 05:13:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Nightmare Stalker
+[07Sep2025 05:13:45.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Nightmare Stalker
+[07Sep2025 05:13:57.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Nightmare Stalker
+[07Sep2025 05:14:09.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Nightmare Stalker
+[07Sep2025 05:14:34.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Nightmare Stalker
+[07Sep2025 05:14:59.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Double Trouble]
+[07Sep2025 05:15:31.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Crops of the Wild]
+[07Sep2025 05:17:19.593] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 3930,82,-4250,minecraft:overworld as filled
+[07Sep2025 05:17:50.209] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:17:50.211] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:17:55.279] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:17:55.412] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:18:06.004] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.160] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.160] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.161] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.161] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.162] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.162] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:06.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:18:06.164] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:18:38.272] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:19:27.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [No Step on Snake]
+[07Sep2025 05:19:59.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Rigged from the Start]
+[07Sep2025 05:20:08.458] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4170,60,-3962,minecraft:overworld as filled
+[07Sep2025 05:20:39.421] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2108ms or 42 ticks behind
+[07Sep2025 05:20:39.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 has made the advancement [Enchanting Tower]
+[07Sep2025 05:21:32.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 has made the advancement [What a Deal!]
+[07Sep2025 05:21:45.557] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4182,59,-3542,minecraft:overworld as filled
+[07Sep2025 05:22:39.265] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:22:39.266] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:22:39.279] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:22:58.416] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[07Sep2025 05:23:51.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 has made the advancement [Hunter's Cabin]
+[07Sep2025 05:24:31.157] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 1658,65,2074,minecraft:overworld as filled
+[07Sep2025 05:25:14.094] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4710,67,-2966,minecraft:overworld as filled
+[07Sep2025 05:26:15.042] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4886,65,-2982,minecraft:overworld as filled
+[07Sep2025 05:26:23.924] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:26:24.023] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:26:24.030] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:26:24.030] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:26:30.262] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:26:30.264] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[07Sep2025 05:27:06.400] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2086,64,1834,minecraft:overworld as filled
+[07Sep2025 05:27:30.843] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4998,65,-3210,minecraft:overworld as filled
+[07Sep2025 05:28:32.655] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 5178,64,-2982,minecraft:overworld as filled
+[07Sep2025 05:30:05.812] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/66628, l='ServerLevel[world]', x=5540.50, y=55.00, z=-2839.50] as it would cause deadlock
+[07Sep2025 05:30:29.515] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2326,71,1802,minecraft:overworld as filled
+[07Sep2025 05:30:46.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to srestrepoj]
+[07Sep2025 05:30:53.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZEUSVII: Teleported ZEUSVII to srestrepoj]
+[07Sep2025 05:31:07.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Path of a Hero]
+[07Sep2025 05:31:08.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Path of a Hero]
+[07Sep2025 05:31:32.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to srestrepoj]
+[07Sep2025 05:31:36.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to srestrepoj]
+[07Sep2025 05:31:40.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to Juli_CT05]
+[07Sep2025 05:35:52.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Mine? Mine? Mine?]
+[07Sep2025 05:35:53.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 has made the advancement [Cover Me with Diamonds]
+[07Sep2025 05:36:19.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Yulian0089 has made the advancement [Life turned out to be a comedy]
+[07Sep2025 05:36:40.808] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[07Sep2025 05:36:40.809] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[07Sep2025 05:36:40.809] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[07Sep2025 05:36:40.809] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[07Sep2025 05:36:40.810] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[07Sep2025 05:36:40.810] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[07Sep2025 05:36:40.854] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[07Sep2025 05:36:40.854] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[07Sep2025 05:36:40.854] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:holy_magic_resist'
+[07Sep2025 05:36:40.854] [Worker-Main-2/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'irons_spellbooks:blood_magic_resist'
+[07Sep2025 05:37:20.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj has made the advancement [Close Quarters]
+[07Sep2025 05:37:31.969] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2854,60,1542,minecraft:overworld as filled
+[07Sep2025 05:38:50.294] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2954,60,1366,minecraft:overworld as filled
+[07Sep2025 05:39:00.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Sep2025 05:39:00.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Sep2025 05:39:00.883] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: srestrepoj lost connection: Server closed
+[07Sep2025 05:39:00.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj left the game
+[07Sep2025 05:39:00.911] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Server closed
+[07Sep2025 05:39:00.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 left the game
+[07Sep2025 05:39:00.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

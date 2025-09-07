@@ -196,7 +196,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-07 05:02:16 +0000",
       "minecraft:skeleton": "2025-09-07 03:45:27 +0000",
+      "minecraft:vindicator": "2025-09-07 05:05:33 +0000",
       "minecraft:spider": "2025-09-07 00:50:45 +0000",
       "minecraft:zombie": "2025-09-07 00:51:55 +0000"
     },
@@ -247,6 +249,18 @@
   "born_in_chaos_v1:junior_summoner": {
     "criteria": {
       "junior_summoner_0": "2025-09-07 02:56:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-07 05:05:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-07 05:05:33 +0000"
     },
     "done": true
   },

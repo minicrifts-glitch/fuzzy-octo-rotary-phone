@@ -32,9 +32,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:cherry_grove": "2025-09-07 00:14:03 +0000",
+      "minecraft:bamboo_jungle": "2025-09-07 05:27:20 +0000",
+      "minecraft:badlands": "2025-09-07 05:17:34 +0000",
+      "minecraft:sparse_jungle": "2025-09-07 05:23:31 +0000",
       "minecraft:river": "2025-09-07 00:50:58 +0000",
       "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
+      "minecraft:desert": "2025-09-07 05:19:16 +0000",
+      "minecraft:savanna": "2025-09-07 05:16:40 +0000",
       "minecraft:plains": "2025-09-06 23:54:16 +0000"
     },
     "done": false
@@ -133,6 +138,8 @@
       "mutton": "2025-09-07 00:12:45 +0000",
       "bread": "2025-09-07 00:03:40 +0000",
       "rotten_flesh": "2025-09-07 04:50:24 +0000",
+      "salmon": "2025-09-07 05:03:00 +0000",
+      "melon_slice": "2025-09-07 05:21:21 +0000",
       "cod": "2025-09-07 04:35:23 +0000",
       "carrot": "2025-09-07 01:14:15 +0000"
     },
@@ -206,9 +213,24 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-09-07 05:13:12 +0000",
+      "scrubland": "2025-09-07 05:17:23 +0000",
+      "floodplain": "2025-09-07 05:13:50 +0000",
+      "jacaranda_glade": "2025-09-07 05:07:56 +0000",
+      "old_growth_woodland": "2025-09-07 05:14:31 +0000",
+      "orchard": "2025-09-07 05:08:18 +0000",
+      "mediterranean_forest": "2025-09-07 05:38:24 +0000",
       "coniferous_forest": "2025-09-07 00:38:09 +0000",
+      "dryland": "2025-09-07 05:17:27 +0000",
+      "wasteland": "2025-09-07 05:38:51 +0000",
+      "lush_desert": "2025-09-07 05:18:34 +0000",
+      "redwood_forest": "2025-09-07 05:08:32 +0000",
+      "aspen_glade": "2025-09-07 05:07:34 +0000",
       "seasonal_forest": "2025-09-07 04:28:03 +0000",
-      "fir_clearing": "2025-09-07 01:21:30 +0000"
+      "volcanic_plains": "2025-09-07 05:23:45 +0000",
+      "fir_clearing": "2025-09-07 01:21:30 +0000",
+      "prairie": "2025-09-07 05:09:01 +0000",
+      "rainforest": "2025-09-07 05:13:27 +0000"
     },
     "done": false
   },
@@ -278,9 +300,27 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-09-07 05:19:59 +0000"
+    },
+    "done": true
+  },
+  "alienevo:galvan_capsule": {
+    "criteria": {
+      "find_galvan_capsule": "2025-09-07 05:31:07 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
       "fighting_nightmares_0": "2025-09-07 04:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-07 05:10:03 +0000"
     },
     "done": true
   },
@@ -290,9 +330,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-09-07 05:19:27 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2025-09-07 04:52:28 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 05:37:20 +0000"
     },
     "done": true
   },
@@ -301,6 +353,18 @@
       "wheat": "2025-09-07 04:59:17 +0000"
     },
     "done": false
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-09-07 05:15:31 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-07 05:14:59 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
