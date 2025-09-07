@@ -69,6 +69,8 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-07 00:50:43 +0000",
       "minecraft:taiga": "2025-09-07 01:03:04 +0000",
+      "minecraft:deep_ocean": "2025-09-07 05:59:40 +0000",
+      "minecraft:frozen_river": "2025-09-07 05:55:15 +0000",
       "minecraft:cherry_grove": "2025-09-06 02:16:35 +0000",
       "minecraft:sunflower_plains": "2025-09-06 03:31:48 +0000",
       "minecraft:windswept_hills": "2025-09-06 04:23:31 +0000",
@@ -149,6 +151,8 @@
     "criteria": {
       "woodland": "2025-09-07 01:55:14 +0000",
       "shrubland": "2025-09-06 04:51:20 +0000",
+      "snowblossom_grove": "2025-09-07 05:54:33 +0000",
+      "rocky_shrubland": "2025-09-07 05:46:07 +0000",
       "scrubland": "2025-09-06 04:45:53 +0000",
       "floodplain": "2025-09-06 04:33:19 +0000",
       "highland": "2025-09-07 00:48:14 +0000",
@@ -454,6 +458,12 @@
   "ars_nouveau:warp_scroll": {
     "criteria": {
       "has_warp_scroll": "2025-09-07 03:57:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-09-07 05:51:50 +0000"
     },
     "done": true
   },

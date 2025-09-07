@@ -34,8 +34,11 @@
       "minecraft:cherry_grove": "2025-09-07 00:14:03 +0000",
       "minecraft:bamboo_jungle": "2025-09-07 05:27:20 +0000",
       "minecraft:badlands": "2025-09-07 05:17:34 +0000",
+      "minecraft:beach": "2025-09-07 06:05:29 +0000",
       "minecraft:sparse_jungle": "2025-09-07 05:23:31 +0000",
       "minecraft:river": "2025-09-07 00:50:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-07 06:02:05 +0000",
+      "minecraft:stony_shore": "2025-09-07 06:00:55 +0000",
       "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
       "minecraft:desert": "2025-09-07 05:19:16 +0000",
@@ -245,6 +248,7 @@
       "minecraft:pillager": "2025-09-07 01:17:16 +0000",
       "minecraft:skeleton": "2025-09-07 00:53:56 +0000",
       "minecraft:spider": "2025-09-07 00:55:01 +0000",
+      "minecraft:witch": "2025-09-07 05:53:10 +0000",
       "minecraft:cave_spider": "2025-09-07 00:54:20 +0000",
       "minecraft:stray": "2025-09-07 00:55:10 +0000",
       "minecraft:vex": "2025-09-07 00:56:32 +0000",
@@ -294,9 +298,57 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-09-07 04:36:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rocky_roller": {
+    "criteria": {
+      "killed_by": "2025-09-07 04:52:28 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_shell": {
     "criteria": {
       "soul_heart": "2025-09-07 04:52:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-09-07 04:59:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "wheat": "2025-09-07 04:59:17 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-09-07 05:10:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-07 05:14:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-09-07 05:15:31 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed_by": "2025-09-07 05:19:27 +0000"
     },
     "done": true
   },
@@ -312,59 +364,17 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-09-07 04:36:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-09-07 05:10:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/plant_seed": {
-    "criteria": {
-      "wheat": "2025-09-07 04:59:17 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rattlesnake": {
-    "criteria": {
-      "killed_by": "2025-09-07 05:19:27 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/rocky_roller": {
-    "criteria": {
-      "killed_by": "2025-09-07 04:52:28 +0000"
-    },
-    "done": true
-  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-09-07 05:37:20 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/plant_all_crops": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "wheat": "2025-09-07 04:59:17 +0000"
+      "has_sherd": "2025-09-07 06:03:13 +0000"
     },
     "done": false
-  },
-  "farmersdelight:main/get_fd_seed": {
-    "criteria": {
-      "onion": "2025-09-07 05:15:31 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-09-07 05:14:59 +0000"
-    },
-    "done": true
   },
   "DataVersion": 3465
 }
