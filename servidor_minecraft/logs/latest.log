@@ -2752,3 +2752,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 19:41:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand has reached the goal [This Belongs in a Museum]
 [07Sep2025 19:43:04.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 lost connection: Disconnected
 [07Sep2025 19:43:04.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand left the game
+[07Sep2025 19:49:19.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-116, y=111, z=-57} BlockPos{x=-116, y=111, z=-56}
+[07Sep2025 19:49:19.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-116, y=111, z=-57} BlockPos{x=-116, y=111, z=-56}
+[07Sep2025 19:54:16.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 was slain by Scarlet Persecutor
