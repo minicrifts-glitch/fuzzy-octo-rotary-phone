@@ -243,6 +243,7 @@
       "minecraft:creeper": "2025-09-07 07:21:08 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
+      "minecraft:enderman": "2025-09-07 18:18:58 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000"
     },
     "done": false
@@ -460,6 +461,12 @@
   "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
       "the_wind_darkening_0": "2025-09-07 07:44:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-09-07 18:20:46 +0000"
     },
     "done": true
   },
