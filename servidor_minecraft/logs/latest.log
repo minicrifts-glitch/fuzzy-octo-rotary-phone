@@ -2817,3 +2817,47 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [07Sep2025 21:06:17.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 joined the game
 [07Sep2025 21:06:17.604] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (f77fa723-4555-3b84-bc56-a97e81824f4f)
 [07Sep2025 21:07:58.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Tetramand: Teleported Tetramand to -269.500000, 67.500000, -206.500000]
+[07Sep2025 21:12:39.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Hector5634: Teleported Hector5634 to Pyronite]
+[07Sep2025 21:14:55.918] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Set own game mode to Creative Mode]
+[07Sep2025 21:15:29.688] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[07Sep2025 21:15:29.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
+[07Sep2025 21:16:56.901] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.91.58.14:49903] logged in with entity id 73967 at (-79.43328221313718, 113.0, -65.2893508976418)
+[07Sep2025 21:16:56.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[07Sep2025 21:16:57.200] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[07Sep2025 21:18:32.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Hector5634 lost connection: Disconnected
+[07Sep2025 21:18:32.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Hector5634 left the game
+[07Sep2025 21:18:36.094] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[07Sep2025 21:18:36.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 left the game
+[07Sep2025 21:18:39.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[07Sep2025 21:18:39.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[07Sep2025 21:18:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[07Sep2025 21:18:39.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[07Sep2025 21:18:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[07Sep2025 21:18:39.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus_orbit
+[07Sep2025 21:18:39.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon_orbit
+[07Sep2025 21:18:39.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio
+[07Sep2025 21:18:39.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:venus
+[07Sep2025 21:18:39.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[07Sep2025 21:18:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury
+[07Sep2025 21:18:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:earth_orbit
+[07Sep2025 21:18:39.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:glacio_orbit
+[07Sep2025 21:18:39.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars
+[07Sep2025 21:18:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mars_orbit
+[07Sep2025 21:18:39.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[07Sep2025 21:18:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:mercury_orbit
+[07Sep2025 21:18:39.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/ad_astra:moon
+[07Sep2025 21:18:39.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[07Sep2025 21:18:39.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus_orbit): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon_orbit): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (venus): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (earth_orbit): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (glacio_orbit): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mars_orbit): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[07Sep2025 21:18:39.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (mercury_orbit): All chunks are saved
+[07Sep2025 21:18:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (moon): All chunks are saved
+[07Sep2025 21:18:39.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

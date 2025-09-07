@@ -469,15 +469,15 @@
     },
     "done": true
   },
-  "idas:pillager_fortress": {
-    "criteria": {
-      "in_pillager_fortress": "2025-09-07 20:53:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/ol_betsy": {
     "criteria": {
       "shot_crossbow": "2025-09-07 18:20:46 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-07 20:53:38 +0000"
     },
     "done": true
   },
