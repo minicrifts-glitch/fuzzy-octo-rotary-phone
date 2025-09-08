@@ -9,6 +9,7 @@
       "minecraft:cold_ocean": "2025-09-07 00:53:20 +0000",
       "minecraft:forest": "2025-09-07 01:17:24 +0000",
       "minecraft:deep_cold_ocean": "2025-09-07 00:53:49 +0000",
+      "minecraft:ocean": "2025-09-07 22:22:23 +0000",
       "minecraft:plains": "2025-09-05 23:54:26 +0000"
     },
     "done": false
@@ -123,6 +124,8 @@
       "coniferous_forest": "2025-09-06 02:20:33 +0000",
       "aspen_glade": "2025-09-07 01:02:39 +0000",
       "seasonal_forest": "2025-09-07 00:57:42 +0000",
+      "fir_clearing": "2025-09-07 21:51:43 +0000",
+      "pumpkin_patch": "2025-09-07 22:18:33 +0000",
       "gravel_beach": "2025-09-07 01:11:51 +0000"
     },
     "done": false
@@ -205,12 +208,15 @@
     "criteria": {
       "minecraft:pillager": "2025-09-07 05:02:16 +0000",
       "minecraft:skeleton": "2025-09-07 03:45:27 +0000",
+      "minecraft:ravager": "2025-09-07 22:54:50 +0000",
       "minecraft:vindicator": "2025-09-07 05:05:33 +0000",
       "minecraft:spider": "2025-09-07 00:50:45 +0000",
       "minecraft:creeper": "2025-09-07 19:27:04 +0000",
+      "minecraft:evoker": "2025-09-07 22:34:58 +0000",
       "quark:forgotten": "2025-09-07 19:41:57 +0000",
       "minecraft:witch": "2025-09-07 19:25:33 +0000",
       "minecraft:cave_spider": "2025-09-07 19:25:53 +0000",
+      "minecraft:vex": "2025-09-07 22:35:01 +0000",
       "minecraft:zombie": "2025-09-07 00:51:55 +0000"
     },
     "done": false
@@ -321,6 +327,54 @@
   "quark:get_forgotten_hat": {
     "criteria": {
       "get_forgotten_hat": "2025-09-07 19:41:58 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-09-07 21:26:12 +0000"
+    },
+    "done": true
+  },
+  "idas:enchantingtower": {
+    "criteria": {
+      "in_enchantingtower": "2025-09-07 21:27:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 21:58:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-07 22:20:49 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-07 22:22:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-07 22:36:52 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-07 22:51:14 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/craft_knife": {
+    "criteria": {
+      "diamond_knife": "2025-09-07 23:18:52 +0000"
     },
     "done": true
   },

@@ -31,7 +31,10 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-09-07 22:42:23 +0000",
       "minecraft:cherry_grove": "2025-09-07 00:14:03 +0000",
+      "minecraft:sunflower_plains": "2025-09-08 00:37:08 +0000",
+      "minecraft:windswept_hills": "2025-09-07 22:51:09 +0000",
       "minecraft:bamboo_jungle": "2025-09-07 05:27:20 +0000",
       "minecraft:badlands": "2025-09-07 05:17:34 +0000",
       "minecraft:beach": "2025-09-07 06:05:29 +0000",
@@ -40,8 +43,12 @@
       "minecraft:lukewarm_ocean": "2025-09-07 06:02:05 +0000",
       "minecraft:stony_shore": "2025-09-07 06:00:55 +0000",
       "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
+      "minecraft:cold_ocean": "2025-09-07 22:38:32 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
+      "minecraft:deep_cold_ocean": "2025-09-07 22:39:27 +0000",
       "minecraft:desert": "2025-09-07 05:19:16 +0000",
+      "minecraft:ocean": "2025-09-08 01:07:20 +0000",
+      "minecraft:flower_forest": "2025-09-08 00:41:06 +0000",
       "minecraft:savanna": "2025-09-07 05:16:40 +0000",
       "minecraft:plains": "2025-09-06 23:54:16 +0000"
     },
@@ -104,7 +111,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-09-07 00:21:24 +0000",
-      "opened_chest": "2025-09-06 23:59:11 +0000"
+      "opened_chest": "2025-09-06 23:59:11 +0000",
+      "opened_cart": "2025-09-08 00:15:15 +0000"
     },
     "done": false
   },
@@ -134,15 +142,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-09-07 22:45:40 +0000",
       "beef": "2025-09-07 01:09:19 +0000",
       "baked_potato": "2025-09-07 04:41:29 +0000",
       "porkchop": "2025-09-07 00:10:23 +0000",
       "apple": "2025-09-07 00:40:25 +0000",
       "mutton": "2025-09-07 00:12:45 +0000",
       "bread": "2025-09-07 00:03:40 +0000",
+      "golden_apple": "2025-09-08 00:17:38 +0000",
       "rotten_flesh": "2025-09-07 04:50:24 +0000",
       "salmon": "2025-09-07 05:03:00 +0000",
       "melon_slice": "2025-09-07 05:21:21 +0000",
+      "golden_carrot": "2025-09-07 23:18:39 +0000",
       "cod": "2025-09-07 04:35:23 +0000",
       "carrot": "2025-09-07 01:14:15 +0000"
     },
@@ -217,11 +228,14 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-09-07 05:13:12 +0000",
+      "shrubland": "2025-09-08 01:14:58 +0000",
+      "rocky_shrubland": "2025-09-08 01:15:17 +0000",
       "scrubland": "2025-09-07 05:17:23 +0000",
       "floodplain": "2025-09-07 05:13:50 +0000",
       "jacaranda_glade": "2025-09-07 05:07:56 +0000",
       "old_growth_woodland": "2025-09-07 05:14:31 +0000",
       "orchard": "2025-09-07 05:08:18 +0000",
+      "moor": "2025-09-08 01:15:24 +0000",
       "mediterranean_forest": "2025-09-07 05:38:24 +0000",
       "coniferous_forest": "2025-09-07 00:38:09 +0000",
       "dryland": "2025-09-07 05:17:27 +0000",
@@ -229,10 +243,16 @@
       "lush_desert": "2025-09-07 05:18:34 +0000",
       "redwood_forest": "2025-09-07 05:08:32 +0000",
       "aspen_glade": "2025-09-07 05:07:34 +0000",
+      "dune_beach": "2025-09-08 01:05:41 +0000",
       "seasonal_forest": "2025-09-07 04:28:03 +0000",
+      "rocky_rainforest": "2025-09-07 23:19:26 +0000",
+      "pasture": "2025-09-08 00:39:14 +0000",
       "volcanic_plains": "2025-09-07 05:23:45 +0000",
+      "lavender_field": "2025-09-08 01:14:23 +0000",
       "fir_clearing": "2025-09-07 01:21:30 +0000",
       "prairie": "2025-09-07 05:09:01 +0000",
+      "grassland": "2025-09-08 01:15:35 +0000",
+      "glowing_grotto": "2025-09-07 23:21:56 +0000",
       "rainforest": "2025-09-07 05:13:27 +0000"
     },
     "done": false
@@ -247,12 +267,16 @@
     "criteria": {
       "minecraft:pillager": "2025-09-07 01:17:16 +0000",
       "minecraft:skeleton": "2025-09-07 00:53:56 +0000",
+      "minecraft:vindicator": "2025-09-07 22:35:52 +0000",
       "minecraft:spider": "2025-09-07 00:55:01 +0000",
+      "minecraft:creeper": "2025-09-07 22:51:51 +0000",
+      "quark:forgotten": "2025-09-08 01:30:04 +0000",
       "minecraft:witch": "2025-09-07 05:53:10 +0000",
       "minecraft:cave_spider": "2025-09-07 00:54:20 +0000",
       "minecraft:stray": "2025-09-07 00:55:10 +0000",
       "minecraft:vex": "2025-09-07 00:56:32 +0000",
-      "minecraft:zombie": "2025-09-07 00:54:28 +0000"
+      "minecraft:zombie": "2025-09-07 00:54:28 +0000",
+      "minecraft:drowned": "2025-09-08 00:55:52 +0000"
     },
     "done": false
   },
@@ -324,6 +348,7 @@
   },
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
+      "sweet_berries": "2025-09-07 22:45:40 +0000",
       "wheat": "2025-09-07 04:59:17 +0000"
     },
     "done": false
@@ -375,6 +400,114 @@
       "has_sherd": "2025-09-07 06:03:13 +0000"
     },
     "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-09-07 22:39:43 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-09-07 22:50:11 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-09-07 22:56:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_cooking_pot": {
+    "criteria": {
+      "cooking_pot": "2025-09-07 22:57:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-09-07 23:07:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-07 23:07:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-07 23:15:53 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "black": "2025-09-07 23:31:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-09-07 23:43:48 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-09-08 00:15:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-09-08 01:30:26 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-08 01:15:59 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-09-08 01:30:23 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-09-08 00:24:10 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-09-08 01:30:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primitive_club": {
+    "criteria": {
+      "limestone": "2025-09-08 01:34:16 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-09-08 01:28:52 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-09-08 01:37:28 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

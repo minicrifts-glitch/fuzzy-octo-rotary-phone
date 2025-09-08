@@ -129,13 +129,16 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-09-08 00:27:07 +0000",
       "cooked_mutton": "2025-09-06 03:59:21 +0000",
       "cooked_beef": "2025-09-06 23:59:00 +0000",
       "beef": "2025-09-06 02:22:35 +0000",
+      "apple": "2025-09-08 01:21:57 +0000",
       "supplementaries:candy": "2025-09-07 00:57:21 +0000",
       "bread": "2025-09-06 02:24:48 +0000",
       "golden_apple": "2025-09-07 02:43:49 +0000",
       "golden_carrot": "2025-09-06 03:02:25 +0000",
+      "cooked_chicken": "2025-09-08 00:35:41 +0000",
       "cod": "2025-09-06 04:52:52 +0000",
       "carrot": "2025-09-07 01:03:47 +0000"
     },
@@ -239,6 +242,7 @@
       "minecraft:vindicator": "2025-09-06 02:47:37 +0000",
       "minecraft:spider": "2025-09-06 03:57:06 +0000",
       "minecraft:creeper": "2025-09-07 04:54:08 +0000",
+      "minecraft:slime": "2025-09-08 01:21:21 +0000",
       "quark:forgotten": "2025-09-07 02:40:29 +0000",
       "minecraft:cave_spider": "2025-09-07 01:14:44 +0000",
       "minecraft:zombie": "2025-09-06 03:20:13 +0000"
@@ -466,6 +470,78 @@
       "traded": "2025-09-07 05:51:50 +0000"
     },
     "done": true
+  },
+  "alienevo:craft_omnitrix": {
+    "criteria": {
+      "prototype_omnitrix_crafted": "2025-09-07 23:42:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-08 00:18:31 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-09-08 01:33:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-08 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_vallumraptor": "2025-09-08 01:31:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:38:54 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-09-08 01:29:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-09-08 01:33:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:33:36 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_tremorsaurus": "2025-09-08 01:33:34 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/primordial_armor": {
+    "criteria": {
+      "tunic": "2025-09-08 01:40:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-09-08 01:40:57 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

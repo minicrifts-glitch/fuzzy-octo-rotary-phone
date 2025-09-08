@@ -67,29 +67,43 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-07 22:19:31 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-07 06:02:42 +0000",
       "minecraft:taiga": "2025-09-07 03:56:50 +0000",
       "minecraft:deep_ocean": "2025-09-07 04:33:12 +0000",
+      "minecraft:frozen_river": "2025-09-07 22:19:33 +0000",
       "minecraft:cherry_grove": "2025-09-06 04:32:47 +0000",
+      "minecraft:sunflower_plains": "2025-09-07 22:46:38 +0000",
       "minecraft:birch_forest": "2025-09-07 04:26:50 +0000",
+      "minecraft:windswept_hills": "2025-09-07 22:50:50 +0000",
       "minecraft:bamboo_jungle": "2025-09-07 05:48:10 +0000",
       "minecraft:beach": "2025-09-06 03:27:03 +0000",
       "minecraft:sparse_jungle": "2025-09-07 05:46:16 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
       "minecraft:lukewarm_ocean": "2025-09-07 04:45:43 +0000",
       "minecraft:stony_shore": "2025-09-06 03:41:47 +0000",
+      "minecraft:snowy_plains": "2025-09-07 22:19:10 +0000",
       "minecraft:dripstone_caves": "2025-09-06 04:32:48 +0000",
+      "minecraft:snowy_taiga": "2025-09-07 22:32:30 +0000",
       "minecraft:swamp": "2025-09-07 20:58:03 +0000",
+      "minecraft:grove": "2025-09-07 22:32:17 +0000",
+      "minecraft:jagged_peaks": "2025-09-07 22:32:24 +0000",
       "minecraft:cold_ocean": "2025-09-06 03:24:03 +0000",
       "minecraft:forest": "2025-09-06 03:42:30 +0000",
       "minecraft:deep_cold_ocean": "2025-09-07 20:55:59 +0000",
+      "minecraft:frozen_ocean": "2025-09-07 22:25:49 +0000",
       "minecraft:desert": "2025-09-07 04:54:56 +0000",
       "minecraft:windswept_forest": "2025-09-07 03:56:53 +0000",
       "minecraft:jungle": "2025-09-07 05:36:50 +0000",
       "minecraft:ocean": "2025-09-07 04:25:39 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-07 04:04:11 +0000",
+      "minecraft:snowy_beach": "2025-09-07 22:25:53 +0000",
+      "minecraft:windswept_savanna": "2025-09-07 22:46:43 +0000",
       "minecraft:warm_ocean": "2025-09-07 05:20:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-09-07 22:52:40 +0000",
+      "minecraft:flower_forest": "2025-09-07 22:46:24 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-07 04:27:23 +0000",
+      "minecraft:deep_dark": "2025-09-08 01:35:26 +0000",
       "minecraft:savanna": "2025-09-07 04:47:14 +0000",
       "minecraft:plains": "2025-09-06 02:17:44 +0000"
     },
@@ -116,8 +130,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-07 20:51:18 +0000",
+      "cooked_mutton": "2025-09-08 00:38:26 +0000",
       "beef": "2025-09-06 02:39:50 +0000",
       "porkchop": "2025-09-07 03:37:46 +0000",
+      "apple": "2025-09-08 00:22:15 +0000",
       "mutton": "2025-09-06 02:41:38 +0000",
       "bread": "2025-09-06 02:52:06 +0000",
       "golden_apple": "2025-09-07 03:32:37 +0000",
@@ -186,6 +202,7 @@
       "highland": "2025-09-07 00:02:03 +0000",
       "jacaranda_glade": "2025-09-07 06:30:25 +0000",
       "marsh": "2025-09-07 20:57:07 +0000",
+      "jade_cliffs": "2025-09-07 22:58:13 +0000",
       "wetland": "2025-09-07 03:57:53 +0000",
       "old_growth_woodland": "2025-09-07 05:12:10 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
@@ -195,6 +212,7 @@
       "mediterranean_forest": "2025-09-07 05:24:32 +0000",
       "coniferous_forest": "2025-09-06 03:03:10 +0000",
       "forested_field": "2025-09-07 06:04:28 +0000",
+      "spider_nest": "2025-09-08 01:08:35 +0000",
       "dryland": "2025-09-07 05:11:27 +0000",
       "wasteland": "2025-09-07 05:06:17 +0000",
       "lush_desert": "2025-09-07 05:11:40 +0000",
@@ -203,14 +221,18 @@
       "dune_beach": "2025-09-07 04:25:34 +0000",
       "seasonal_forest": "2025-09-06 03:57:09 +0000",
       "rocky_rainforest": "2025-09-07 05:48:12 +0000",
+      "pasture": "2025-09-07 22:45:21 +0000",
       "volcanic_plains": "2025-09-07 05:30:47 +0000",
       "lavender_field": "2025-09-07 05:58:14 +0000",
       "fir_clearing": "2025-09-06 02:53:31 +0000",
       "pumpkin_patch": "2025-09-06 03:57:16 +0000",
       "prairie": "2025-09-06 03:46:47 +0000",
       "grassland": "2025-09-07 04:11:21 +0000",
+      "snowy_coniferous_forest": "2025-09-07 22:32:27 +0000",
+      "snowy_fir_clearing": "2025-09-07 22:32:18 +0000",
       "gravel_beach": "2025-09-06 03:23:05 +0000",
-      "rainforest": "2025-09-07 05:12:09 +0000"
+      "rainforest": "2025-09-07 05:12:09 +0000",
+      "crag": "2025-09-08 01:28:03 +0000"
     },
     "done": false
   },
@@ -246,10 +268,13 @@
       "minecraft:spider": "2025-09-07 04:49:31 +0000",
       "minecraft:creeper": "2025-09-07 07:21:08 +0000",
       "minecraft:witch": "2025-09-07 20:57:35 +0000",
+      "minecraft:husk": "2025-09-07 22:15:16 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:enderman": "2025-09-07 18:18:58 +0000",
-      "minecraft:zombie": "2025-09-06 23:56:48 +0000"
+      "minecraft:zombie": "2025-09-06 23:56:48 +0000",
+      "minecraft:drowned": "2025-09-07 22:10:07 +0000",
+      "minecraft:zombie_villager": "2025-09-07 21:30:52 +0000"
     },
     "done": false
   },
@@ -478,6 +503,90 @@
   "idas:pillager_fortress": {
     "criteria": {
       "in_pillager_fortress": "2025-09-07 20:53:38 +0000"
+    },
+    "done": true
+  },
+  "ars_nouveau:warp_scroll": {
+    "criteria": {
+      "has_warp_scroll": "2025-09-07 21:58:21 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-09-07 22:07:35 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-09-07 22:29:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-09-07 23:24:43 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-09-07 23:25:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-09-07 23:25:20 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_relicheirus": "2025-09-08 01:31:35 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-09-08 00:22:29 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:32:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-09-08 01:29:19 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-09-08 01:32:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
+    "criteria": {
+      "killed_relicheirus": "2025-09-08 01:32:01 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-09-08 01:32:57 +0000"
     },
     "done": true
   },
