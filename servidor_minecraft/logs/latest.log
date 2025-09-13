@@ -2786,3 +2786,24 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 03:29:10.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
 [13Sep2025 03:31:20.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
 [13Sep2025 03:31:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
+[13Sep2025 03:49:30.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:44923] logged in with entity id 150768 at (-84.33000001311302, 118.0, -78.49877284480952)
+[13Sep2025 03:49:30.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[13Sep2025 03:49:30.860] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[13Sep2025 03:51:06.312] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cannonball removed now.
+[13Sep2025 03:51:06.319] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: supplementaries:cannonball removed now.
+[13Sep2025 03:51:06.324] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thecum32[/127.229.213.66:47983] logged in with entity id 153095 at (-1177.5634015600892, 53.0, 1579.2788201454084)
+[13Sep2025 03:51:06.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thecum32 joined the game
+[13Sep2025 03:51:06.493] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (1ba3c41b-3e4e-35c0-a6cb-826a808bc535)
+[13Sep2025 03:51:08.774] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2542ms or 50 ticks behind
+[13Sep2025 03:51:46.887] [Worker-Main-173/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[13Sep2025 03:52:24.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Gave 1 [Prototype Omnitrix (Orange)] to thecum32]
+[13Sep2025 03:53:34.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to thecum32]
+[13Sep2025 03:54:22.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Kineceleran burned to death
+[13Sep2025 03:54:48.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Made thecum32 a server operator]
+[13Sep2025 03:55:05.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thecum32: Teleported thecum32 to Juli_CT05]
+[13Sep2025 03:55:50.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thecum32: Teleported thecum32 to Pyronite]
+[13Sep2025 03:57:36.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thecum32: Teleported thecum32 to Pyronite]
+[13Sep2025 03:57:45.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[13Sep2025 03:57:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
+[13Sep2025 04:04:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [This Must be a Sign!]
+[13Sep2025 04:04:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Food Fight]

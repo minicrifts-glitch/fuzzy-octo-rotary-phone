@@ -75,12 +75,6 @@
     },
     "done": false
   },
-  "lootr:1chest": {
-    "criteria": {
-      "opened_chest": "2025-09-06 03:35:32 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "highland": "2025-09-06 03:46:20 +0000",
@@ -99,15 +93,21 @@
     },
     "done": false
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "coniferous_forest": "2025-09-06 03:33:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-09-06 03:33:55 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/root": {
+  "lootr:1chest": {
     "criteria": {
-      "killed_by_something": "2025-09-06 03:35:55 +0000"
+      "opened_chest": "2025-09-06 03:35:32 +0000"
     },
     "done": true
   },
@@ -118,18 +118,74 @@
     },
     "done": false
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "minecraft:adventure/root": {
     "criteria": {
-      "minecraft:spider": "2025-09-06 04:21:12 +0000",
-      "minecraft:zombie": "2025-09-06 04:04:05 +0000"
+      "killed_by_something": "2025-09-06 03:35:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_porkchop": "2025-09-13 04:02:18 +0000",
+      "cooked_mutton": "2025-09-13 04:05:02 +0000",
+      "beef": "2025-09-06 03:41:42 +0000",
+      "porkchop": "2025-09-06 03:42:34 +0000",
+      "apple": "2025-09-06 04:00:20 +0000",
+      "potato": "2025-09-06 04:36:16 +0000",
+      "mutton": "2025-09-06 04:27:30 +0000",
+      "bread": "2025-09-06 03:46:06 +0000",
+      "golden_carrot": "2025-09-06 03:45:43 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-09-06 03:41:42 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-09-06 03:45:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-09-06 03:50:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-09-06 03:52:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-09-06 03:53:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-09-06 03:54:24 +0000"
+    },
+    "done": true
   },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2025-09-06 03:54:26 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-09-06 04:21:12 +0000",
+      "minecraft:zombie": "2025-09-06 04:04:05 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
@@ -143,29 +199,11 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "born_in_chaos_v1:bury_them_all": {
     "criteria": {
-      "beef": "2025-09-06 03:41:42 +0000",
-      "porkchop": "2025-09-06 03:42:34 +0000",
-      "apple": "2025-09-06 04:00:20 +0000",
-      "potato": "2025-09-06 04:36:16 +0000",
-      "mutton": "2025-09-06 04:27:30 +0000",
-      "bread": "2025-09-06 03:46:06 +0000",
-      "golden_carrot": "2025-09-06 03:45:43 +0000"
+      "bury_them_all_0": "2025-09-06 04:10:58 +0000"
     },
     "done": false
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-09-06 03:52:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-09-06 03:41:42 +0000"
-    },
-    "done": true
   },
   "lootr:10loot": {
     "criteria": {
@@ -173,39 +211,15 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "stone_pickaxe": "2025-09-06 03:53:39 +0000"
+      "bastion": "2025-09-13 04:04:16 +0000"
     },
     "done": true
   },
-  "lootr:1barrel": {
+  "born_in_chaos_v1:food_fight": {
     "criteria": {
-      "opened_barrel": "2025-09-06 03:45:27 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:biomesoplenty/root": {
-    "criteria": {
-      "coniferous_forest": "2025-09-06 03:33:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-09-06 03:50:37 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bury_them_all": {
-    "criteria": {
-      "bury_them_all_0": "2025-09-06 04:10:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/smelt_iron": {
-    "criteria": {
-      "iron": "2025-09-06 03:54:24 +0000"
+      "food_fight_0": "2025-09-13 04:04:51 +0000"
     },
     "done": true
   },
