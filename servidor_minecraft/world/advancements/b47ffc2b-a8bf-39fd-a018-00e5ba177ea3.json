@@ -664,18 +664,6 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:charm_collector": {
-    "criteria": {
-      "charm_collector_3": "2025-09-13 00:54:59 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-09-13 01:12:57 +0000"
-    },
-    "done": true
-  },
   "minecraft:husbandry/axolotl_in_a_bucket": {
     "criteria": {
       "axolotl_bucket": "2025-09-13 00:36:24 +0000"
@@ -688,9 +676,21 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-09-13 00:54:59 +0000"
+    },
+    "done": false
+  },
   "alexscaves:alexscaves/limestone": {
     "criteria": {
       "limestone": "2025-09-13 01:00:41 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-09-13 01:12:57 +0000"
     },
     "done": true
   },

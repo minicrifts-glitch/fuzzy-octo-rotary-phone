@@ -2783,3 +2783,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 03:26:24.859] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:40693] logged in with entity id 143636 at (-1099.9068626810758, 66.0, 382.2756341707555)
 [13Sep2025 03:26:24.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
 [13Sep2025 03:26:25.059] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[13Sep2025 03:29:10.793] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[13Sep2025 03:31:20.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[13Sep2025 03:31:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
