@@ -278,6 +278,7 @@
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:enderman": "2025-09-07 18:18:58 +0000",
+      "minecraft:silverfish": "2025-09-13 01:11:31 +0000",
       "minecraft:vex": "2025-09-08 03:00:51 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000",
       "minecraft:drowned": "2025-09-07 22:10:07 +0000",
@@ -678,6 +679,12 @@
   "born_in_chaos_v1:dark_creator": {
     "criteria": {
       "dark_creator_0": "2025-09-13 00:54:48 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-09-13 01:00:41 +0000"
     },
     "done": true
   },

@@ -2750,3 +2750,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 00:58:39.964] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved too quickly! -10.186363724940747,0.12346031983511807,11.13251003682825
 [13Sep2025 00:58:51.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to -112.500000, 115.500000, -106.500000]
 [13Sep2025 01:00:41.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Town of Bedrock]
+[13Sep2025 01:04:19.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII lost connection: Disconnected
+[13Sep2025 01:04:19.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII left the game
+[13Sep2025 01:12:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vulpimancer has reached the goal [Arachnophobe's Nightmare]
