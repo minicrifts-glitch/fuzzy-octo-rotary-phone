@@ -2847,3 +2847,18 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 04:24:43.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran withered away whilst fighting Lifestealer
 [13Sep2025 04:27:19.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite was slain by Zombie
 [13Sep2025 04:27:29.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thecum32 was slain by Scarlet Persecutor
+[13Sep2025 04:30:22.919] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[13Sep2025 04:31:53.977] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved too quickly! 9.7268208190646,51.43715292918364,-0.7164072325658282
+[13Sep2025 04:32:08.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Tetramand was slain by Scarlet Persecutor
+[13Sep2025 04:35:02.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 04:35:02.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 04:36:45.575] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 1418,91,378,minecraft:overworld as filled
+[13Sep2025 04:38:29.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Suit Up]
+[13Sep2025 04:38:47.016] [Worker-Main-182/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[13Sep2025 04:38:52.920] [Worker-Main-184/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=2542, y=66, z=-2}
+[13Sep2025 04:43:20.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was shot by Skeleton
+[13Sep2025 04:45:34.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Sep2025 04:45:34.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Sep2025 04:45:34.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Server closed
+[13Sep2025 04:45:34.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite left the game
+[13Sep2025 04:45:34.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

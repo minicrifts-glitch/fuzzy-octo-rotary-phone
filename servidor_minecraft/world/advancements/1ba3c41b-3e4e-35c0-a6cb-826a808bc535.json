@@ -189,7 +189,10 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-13 04:15:19 +0000",
+      "minecraft:skeleton": "2025-09-13 04:28:09 +0000",
       "minecraft:spider": "2025-09-06 04:21:12 +0000",
+      "minecraft:creeper": "2025-09-13 04:43:02 +0000",
+      "minecraft:enderman": "2025-09-13 04:29:41 +0000",
       "minecraft:zombie": "2025-09-06 04:04:05 +0000",
       "minecraft:zombie_villager": "2025-09-13 04:12:59 +0000"
     },
@@ -216,6 +219,12 @@
   "lootr:10loot": {
     "criteria": {
       "loot_stat": "2025-09-06 04:14:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-09-13 04:38:29 +0000"
     },
     "done": true
   },
