@@ -67,6 +67,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-09-13 05:49:32 +0000",
       "minecraft:taiga": "2025-09-07 02:54:50 +0000",
       "minecraft:frozen_river": "2025-09-07 02:42:11 +0000",
       "minecraft:cherry_grove": "2025-09-07 04:01:25 +0000",
@@ -79,8 +80,10 @@
       "minecraft:river": "2025-09-06 03:36:07 +0000",
       "minecraft:snowy_plains": "2025-09-07 02:39:33 +0000",
       "minecraft:stony_shore": "2025-09-07 04:45:27 +0000",
+      "minecraft:jagged_peaks": "2025-09-13 06:07:46 +0000",
       "minecraft:cold_ocean": "2025-09-07 02:59:23 +0000",
       "minecraft:forest": "2025-09-07 00:42:12 +0000",
+      "minecraft:frozen_ocean": "2025-09-13 05:49:46 +0000",
       "minecraft:desert": "2025-09-07 07:20:29 +0000",
       "minecraft:ocean": "2025-09-07 03:21:41 +0000",
       "minecraft:jungle": "2025-09-07 06:24:55 +0000",
@@ -112,6 +115,7 @@
       "jade_cliffs": "2025-09-07 04:41:29 +0000",
       "wetland": "2025-09-07 03:27:30 +0000",
       "mystic_grove": "2025-09-07 04:48:09 +0000",
+      "cold_desert": "2025-09-13 06:01:01 +0000",
       "old_growth_woodland": "2025-09-07 06:32:36 +0000",
       "maple_woods": "2025-09-07 02:59:51 +0000",
       "orchard": "2025-09-06 04:04:58 +0000",
@@ -189,6 +193,7 @@
       "apple": "2025-09-06 03:48:03 +0000",
       "bread": "2025-09-06 03:39:33 +0000",
       "rotten_flesh": "2025-09-06 03:53:56 +0000",
+      "golden_carrot": "2025-09-13 05:49:49 +0000",
       "cooked_chicken": "2025-09-06 04:03:39 +0000"
     },
     "done": false
@@ -466,6 +471,12 @@
   "idas:castle": {
     "criteria": {
       "in_castle": "2025-09-07 08:46:22 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-09-13 06:09:01 +0000"
     },
     "done": true
   },

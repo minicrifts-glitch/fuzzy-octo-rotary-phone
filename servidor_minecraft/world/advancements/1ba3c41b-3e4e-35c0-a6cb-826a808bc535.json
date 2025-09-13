@@ -70,6 +70,7 @@
       "minecraft:cherry_grove": "2025-09-06 03:30:08 +0000",
       "minecraft:beach": "2025-09-06 03:56:46 +0000",
       "minecraft:river": "2025-09-06 03:31:32 +0000",
+      "minecraft:cold_ocean": "2025-09-13 05:52:36 +0000",
       "minecraft:forest": "2025-09-06 03:44:35 +0000",
       "minecraft:plains": "2025-09-06 03:11:12 +0000"
     },
@@ -134,13 +135,15 @@
       "cooked_porkchop": "2025-09-13 04:02:18 +0000",
       "cooked_mutton": "2025-09-13 04:05:02 +0000",
       "sweet_berries": "2025-09-13 04:16:19 +0000",
+      "cooked_beef": "2025-09-13 05:09:02 +0000",
       "beef": "2025-09-06 03:41:42 +0000",
       "porkchop": "2025-09-06 03:42:34 +0000",
       "apple": "2025-09-06 04:00:20 +0000",
       "potato": "2025-09-06 04:36:16 +0000",
       "mutton": "2025-09-06 04:27:30 +0000",
       "bread": "2025-09-06 03:46:06 +0000",
-      "golden_carrot": "2025-09-06 03:45:43 +0000"
+      "golden_carrot": "2025-09-06 03:45:43 +0000",
+      "carrot": "2025-09-13 05:50:02 +0000"
     },
     "done": false
   },
@@ -222,9 +225,21 @@
     },
     "done": true
   },
-  "minecraft:story/obtain_armor": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "iron_chestplate": "2025-09-13 04:38:29 +0000"
+      "bastion": "2025-09-13 04:04:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:food_fight": {
+    "criteria": {
+      "food_fight_0": "2025-09-13 04:04:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-09-13 04:10:31 +0000"
     },
     "done": true
   },
@@ -234,9 +249,9 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "bastion": "2025-09-13 04:04:16 +0000"
+      "shot_arrow": "2025-09-13 04:15:34 +0000"
     },
     "done": true
   },
@@ -246,21 +261,15 @@
     },
     "done": false
   },
-  "born_in_chaos_v1:double_trouble": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "double_trouble_0": "2025-09-13 04:10:31 +0000"
+      "iron_chestplate": "2025-09-13 04:38:29 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
     "criteria": {
-      "shot_arrow": "2025-09-13 04:15:34 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:food_fight": {
-    "criteria": {
-      "food_fight_0": "2025-09-13 04:04:51 +0000"
+      "lifeturnedouttobeacomedy_0": "2025-09-13 05:04:13 +0000"
     },
     "done": true
   },
