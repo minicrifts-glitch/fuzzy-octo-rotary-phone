@@ -2756,3 +2756,9 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 01:39:23.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
 [13Sep2025 01:39:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
 [13Sep2025 01:39:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:55:32.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:55:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:55:32.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:56:43.378] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=116, z=-22} BlockPos{x=-148, y=116, z=-21}
+[13Sep2025 01:56:43.426] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-148, y=116, z=-22} BlockPos{x=-148, y=116, z=-21}
+[13Sep2025 02:06:23.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite fell from a high place
