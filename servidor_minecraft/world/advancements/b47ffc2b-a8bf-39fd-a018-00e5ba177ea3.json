@@ -78,6 +78,7 @@
       "minecraft:windswept_hills": "2025-09-07 22:50:50 +0000",
       "minecraft:bamboo_jungle": "2025-09-07 05:48:10 +0000",
       "minecraft:beach": "2025-09-06 03:27:03 +0000",
+      "minecraft:dark_forest": "2025-09-08 02:40:47 +0000",
       "minecraft:sparse_jungle": "2025-09-07 05:46:16 +0000",
       "minecraft:river": "2025-09-06 02:39:50 +0000",
       "minecraft:lukewarm_ocean": "2025-09-07 04:45:43 +0000",
@@ -138,6 +139,7 @@
       "bread": "2025-09-06 02:52:06 +0000",
       "golden_apple": "2025-09-07 03:32:37 +0000",
       "rotten_flesh": "2025-09-07 01:59:21 +0000",
+      "golden_carrot": "2025-09-13 00:52:45 +0000",
       "carrot": "2025-09-06 03:38:04 +0000"
     },
     "done": false
@@ -211,6 +213,7 @@
       "overgrown_greens": "2025-09-07 04:09:16 +0000",
       "mediterranean_forest": "2025-09-07 05:24:32 +0000",
       "coniferous_forest": "2025-09-06 03:03:10 +0000",
+      "hot_springs": "2025-09-08 02:53:31 +0000",
       "forested_field": "2025-09-07 06:04:28 +0000",
       "spider_nest": "2025-09-08 01:08:35 +0000",
       "dryland": "2025-09-07 05:11:27 +0000",
@@ -265,13 +268,17 @@
       "minecraft:pillager": "2025-09-07 03:38:09 +0000",
       "minecraft:skeleton": "2025-09-06 03:05:46 +0000",
       "minecraft:zoglin": "2025-09-07 03:59:25 +0000",
+      "minecraft:ravager": "2025-09-08 03:00:53 +0000",
+      "minecraft:vindicator": "2025-09-08 03:00:45 +0000",
       "minecraft:spider": "2025-09-07 04:49:31 +0000",
       "minecraft:creeper": "2025-09-07 07:21:08 +0000",
+      "minecraft:slime": "2025-09-08 03:02:02 +0000",
       "minecraft:witch": "2025-09-07 20:57:35 +0000",
       "minecraft:husk": "2025-09-07 22:15:16 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:enderman": "2025-09-07 18:18:58 +0000",
+      "minecraft:vex": "2025-09-08 03:00:51 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000",
       "minecraft:drowned": "2025-09-07 22:10:07 +0000",
       "minecraft:zombie_villager": "2025-09-07 21:30:52 +0000"
@@ -542,21 +549,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
-    "criteria": {
-      "killed_by_relicheirus": "2025-09-08 01:31:35 +0000"
-    },
-    "done": true
-  },
   "idas:tinkers_citadel": {
     "criteria": {
       "in_tinkers_citadel": "2025-09-08 00:22:29 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/dinosaur_nugget": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-09-08 01:32:23 +0000"
     },
     "done": true
   },
@@ -566,15 +561,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+  "alexscaves:alexscaves/discover_dinosaur": {
     "criteria": {
-      "cooked_dinosaur_chop": "2025-09-08 01:32:03 +0000"
-    },
-    "done": true
-  },
-  "quark:mine_toretoise": {
-    "criteria": {
-      "mine_toretoise": "2025-09-08 01:32:33 +0000"
+      "killed_by_relicheirus": "2025-09-08 01:31:35 +0000"
     },
     "done": true
   },
@@ -584,9 +573,111 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:32:03 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:32:23 +0000"
+    },
+    "done": true
+  },
+  "quark:mine_toretoise": {
+    "criteria": {
+      "mine_toretoise": "2025-09-08 01:32:33 +0000"
+    },
+    "done": true
+  },
   "idas:tinkers_workshop": {
     "criteria": {
       "in_tinkers_workshop": "2025-09-08 01:32:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-08 02:14:42 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/fiddlehead": {
+    "criteria": {
+      "fiddlehead": "2025-09-08 02:15:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-09-08 02:16:14 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-09-08 02:29:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-09-08 02:30:47 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-09-08 02:31:49 +0000"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-09-08 02:33:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-08 03:01:06 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-09-08 03:01:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/whos_the_pillager_now": {
+    "criteria": {
+      "kill_pillager": "2025-09-08 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-09-08 03:20:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:charm_collector": {
+    "criteria": {
+      "charm_collector_3": "2025-09-13 00:54:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-13 00:36:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-09-13 00:54:48 +0000"
     },
     "done": true
   },

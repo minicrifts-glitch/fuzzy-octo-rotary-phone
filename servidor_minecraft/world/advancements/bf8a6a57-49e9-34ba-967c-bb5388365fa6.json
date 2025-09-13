@@ -135,6 +135,7 @@
       "beef": "2025-09-06 02:22:35 +0000",
       "apple": "2025-09-08 01:21:57 +0000",
       "supplementaries:candy": "2025-09-07 00:57:21 +0000",
+      "mutton": "2025-09-08 02:59:43 +0000",
       "bread": "2025-09-06 02:24:48 +0000",
       "golden_apple": "2025-09-07 02:43:49 +0000",
       "golden_carrot": "2025-09-06 03:02:25 +0000",
@@ -152,6 +153,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-09-08 02:44:27 +0000",
       "woodland": "2025-09-07 01:55:14 +0000",
       "shrubland": "2025-09-06 04:51:20 +0000",
       "snowblossom_grove": "2025-09-07 05:54:33 +0000",
@@ -170,6 +172,7 @@
       "overgrown_greens": "2025-09-07 01:59:25 +0000",
       "mediterranean_forest": "2025-09-06 04:39:26 +0000",
       "coniferous_forest": "2025-09-06 02:22:42 +0000",
+      "forested_field": "2025-09-08 02:49:37 +0000",
       "old_growth_dead_forest": "2025-09-07 01:29:57 +0000",
       "redwood_forest": "2025-09-06 03:05:52 +0000",
       "aspen_glade": "2025-09-07 00:46:53 +0000",
@@ -239,13 +242,17 @@
     "criteria": {
       "minecraft:pillager": "2025-09-06 02:42:53 +0000",
       "minecraft:skeleton": "2025-09-06 02:29:23 +0000",
+      "minecraft:ravager": "2025-09-08 02:55:29 +0000",
       "minecraft:vindicator": "2025-09-06 02:47:37 +0000",
       "minecraft:spider": "2025-09-06 03:57:06 +0000",
       "minecraft:creeper": "2025-09-07 04:54:08 +0000",
       "minecraft:slime": "2025-09-08 01:21:21 +0000",
+      "minecraft:evoker": "2025-09-08 02:55:42 +0000",
       "quark:forgotten": "2025-09-07 02:40:29 +0000",
       "minecraft:cave_spider": "2025-09-07 01:14:44 +0000",
-      "minecraft:zombie": "2025-09-06 03:20:13 +0000"
+      "minecraft:vex": "2025-09-08 02:55:33 +0000",
+      "minecraft:zombie": "2025-09-06 03:20:13 +0000",
+      "minecraft:zombie_villager": "2025-09-08 03:11:46 +0000"
     },
     "done": false
   },
@@ -483,15 +490,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/fiddlehead": {
+  "alexscaves:alexscaves/discover_primordial_caves": {
     "criteria": {
-      "fiddlehead": "2025-09-08 01:33:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-09-08 01:41:07 +0000"
+      "discover": "2025-09-08 01:29:48 +0000"
     },
     "done": true
   },
@@ -501,21 +502,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/dinosaur_nugget": {
+  "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
-      "cooked_dinosaur_chop": "2025-09-08 01:38:54 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_primordial_caves": {
-    "criteria": {
-      "discover": "2025-09-08 01:29:48 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/tree_star": {
-    "criteria": {
-      "tree_star": "2025-09-08 01:33:57 +0000"
+      "killed_tremorsaurus": "2025-09-08 01:33:34 +0000"
     },
     "done": true
   },
@@ -525,9 +514,21 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_big_dinosaur": {
+  "alexscaves:alexscaves/fiddlehead": {
     "criteria": {
-      "killed_tremorsaurus": "2025-09-08 01:33:34 +0000"
+      "fiddlehead": "2025-09-08 01:33:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/tree_star": {
+    "criteria": {
+      "tree_star": "2025-09-08 01:33:57 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/dinosaur_nugget": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 01:38:54 +0000"
     },
     "done": true
   },
@@ -542,6 +543,85 @@
       "has_sherd": "2025-09-08 01:40:57 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-08 01:41:07 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2025-09-08 02:31:30 +0000",
+      "1": "2025-09-08 01:58:58 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-09-08 02:24:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-09-08 02:26:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-09-08 02:26:11 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-09-08 02:27:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-09-08 02:27:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/bioluminesscence": {
+    "criteria": {
+      "bioluminesscence": "2025-09-08 02:28:06 +0000"
+    },
+    "done": true
+  },
+  "idas:apothecary_abode": {
+    "criteria": {
+      "in_apothecary_abode": "2025-09-08 02:30:16 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_corundum": {
+    "criteria": {
+      "red": "2025-09-08 02:31:53 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-09-08 02:51:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-09-08 02:55:04 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-09-08 03:00:48 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }

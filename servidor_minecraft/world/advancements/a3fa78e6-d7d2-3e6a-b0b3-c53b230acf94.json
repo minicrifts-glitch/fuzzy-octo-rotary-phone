@@ -43,12 +43,14 @@
       "minecraft:lukewarm_ocean": "2025-09-07 06:02:05 +0000",
       "minecraft:stony_shore": "2025-09-07 06:00:55 +0000",
       "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
+      "minecraft:swamp": "2025-09-08 02:42:24 +0000",
       "minecraft:cold_ocean": "2025-09-07 22:38:32 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
       "minecraft:deep_cold_ocean": "2025-09-07 22:39:27 +0000",
       "minecraft:desert": "2025-09-07 05:19:16 +0000",
       "minecraft:ocean": "2025-09-08 01:07:20 +0000",
       "minecraft:flower_forest": "2025-09-08 00:41:06 +0000",
+      "minecraft:deep_dark": "2025-09-08 02:14:05 +0000",
       "minecraft:savanna": "2025-09-07 05:16:40 +0000",
       "minecraft:plains": "2025-09-06 23:54:16 +0000"
     },
@@ -227,12 +229,14 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-09-08 02:45:29 +0000",
       "woodland": "2025-09-07 05:13:12 +0000",
       "shrubland": "2025-09-08 01:14:58 +0000",
       "rocky_shrubland": "2025-09-08 01:15:17 +0000",
       "scrubland": "2025-09-07 05:17:23 +0000",
       "floodplain": "2025-09-07 05:13:50 +0000",
       "jacaranda_glade": "2025-09-07 05:07:56 +0000",
+      "marsh": "2025-09-08 02:41:28 +0000",
       "old_growth_woodland": "2025-09-07 05:14:31 +0000",
       "orchard": "2025-09-07 05:08:18 +0000",
       "moor": "2025-09-08 01:15:24 +0000",
@@ -267,6 +271,7 @@
     "criteria": {
       "minecraft:pillager": "2025-09-07 01:17:16 +0000",
       "minecraft:skeleton": "2025-09-07 00:53:56 +0000",
+      "minecraft:zoglin": "2025-09-08 03:11:13 +0000",
       "minecraft:vindicator": "2025-09-07 22:35:52 +0000",
       "minecraft:spider": "2025-09-07 00:55:01 +0000",
       "minecraft:creeper": "2025-09-07 22:51:51 +0000",
@@ -461,9 +466,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_dinosaur": {
+  "ars_nouveau:warp_scroll": {
     "criteria": {
-      "killed_by_vallumraptor": "2025-09-08 01:30:26 +0000"
+      "has_warp_scroll": "2025-09-08 00:24:10 +0000"
     },
     "done": true
   },
@@ -473,15 +478,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_primordial_caves": {
+  "quark:mine_toretoise": {
     "criteria": {
-      "discover": "2025-09-08 01:30:23 +0000"
-    },
-    "done": true
-  },
-  "ars_nouveau:warp_scroll": {
-    "criteria": {
-      "has_warp_scroll": "2025-09-08 00:24:10 +0000"
+      "mine_toretoise": "2025-09-08 01:28:52 +0000"
     },
     "done": true
   },
@@ -491,21 +490,153 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/discover_primordial_caves": {
+    "criteria": {
+      "discover": "2025-09-08 01:30:23 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_dinosaur": {
+    "criteria": {
+      "killed_by_vallumraptor": "2025-09-08 01:30:26 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/primitive_club": {
     "criteria": {
       "limestone": "2025-09-08 01:34:16 +0000"
     },
     "done": true
   },
-  "quark:mine_toretoise": {
-    "criteria": {
-      "mine_toretoise": "2025-09-08 01:28:52 +0000"
-    },
-    "done": true
-  },
   "alexscaves:alexscaves/defeat_big_dinosaur": {
     "criteria": {
       "killed_relicheirus": "2025-09-08 01:37:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-08 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-09-08 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-09-08 02:08:24 +0000"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-09-08 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-09-08 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-09-08 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-08 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-09-08 02:25:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-08 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
+    "criteria": {
+      "cooked_dinosaur_chop": "2025-09-08 02:21:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-09-08 02:39:24 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-08 02:52:58 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-09-08 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "create:shifting_gears": {
+    "criteria": {
+      "0": "2025-09-08 02:06:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-09-08 02:36:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/limestone": {
+    "criteria": {
+      "limestone": "2025-09-08 02:19:48 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-09-08 02:33:05 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-09-08 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-09-08 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/mussel": {
+    "criteria": {
+      "mussel": "2025-09-08 02:30:38 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_workshop": {
+    "criteria": {
+      "in_tinkers_workshop": "2025-09-08 02:01:54 +0000"
     },
     "done": true
   },
