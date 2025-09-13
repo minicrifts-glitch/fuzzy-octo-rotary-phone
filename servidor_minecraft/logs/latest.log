@@ -2773,3 +2773,5 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 02:36:34.520] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=110, z=-266} BlockPos{x=100, y=109, z=-267}
 [13Sep2025 02:36:34.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=97, y=110, z=-266} BlockPos{x=100, y=109, z=-267}
 [13Sep2025 02:44:01.571] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-111, y=109, z=-32} BlockPos{x=-112, y=109, z=-30}
+[13Sep2025 02:47:34.317] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-90, y=109, z=-56} BlockPos{x=-122, y=110, z=-48}
+[13Sep2025 02:54:46.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite fell from a high place
