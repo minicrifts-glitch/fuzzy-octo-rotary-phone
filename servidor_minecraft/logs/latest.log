@@ -2807,3 +2807,12 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 03:57:45.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
 [13Sep2025 04:04:16.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [This Must be a Sign!]
 [13Sep2025 04:04:51.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Food Fight]
+[13Sep2025 04:07:20.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thecum32 was slain by Dread Hound
+[13Sep2025 04:10:31.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran has made the advancement [Double Trouble]
+[13Sep2025 04:10:33.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran was blown up by Phantom Creeper
+[13Sep2025 04:11:23.943] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thecum32 was slain by Lifestealer
+[13Sep2025 04:13:18.172] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:45061] logged in with entity id 178179 at (-108.03239801201943, 114.0, -82.65203395191969)
+[13Sep2025 04:13:18.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[13Sep2025 04:13:18.687] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[13Sep2025 04:15:19.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran has made the advancement [Voluntary Exile]
+[13Sep2025 04:15:34.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran has made the advancement [Take Aim]
