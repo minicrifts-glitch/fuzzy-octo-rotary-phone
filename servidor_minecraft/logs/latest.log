@@ -2753,3 +2753,6 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [13Sep2025 01:04:19.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII lost connection: Disconnected
 [13Sep2025 01:04:19.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII left the game
 [13Sep2025 01:12:57.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vulpimancer has reached the goal [Arachnophobe's Nightmare]
+[13Sep2025 01:39:23.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:39:23.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[13Sep2025 01:39:23.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
