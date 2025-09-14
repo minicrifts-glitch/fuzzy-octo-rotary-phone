@@ -69,11 +69,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-07 00:50:43 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-14 02:20:44 +0000",
+      "minecraft:mushroom_fields": "2025-09-14 03:53:16 +0000",
       "minecraft:taiga": "2025-09-07 01:03:04 +0000",
       "minecraft:deep_ocean": "2025-09-07 05:59:40 +0000",
       "minecraft:frozen_river": "2025-09-07 05:55:15 +0000",
       "minecraft:cherry_grove": "2025-09-06 02:16:35 +0000",
       "minecraft:sunflower_plains": "2025-09-06 03:31:48 +0000",
+      "minecraft:birch_forest": "2025-09-14 03:56:10 +0000",
       "minecraft:windswept_hills": "2025-09-06 04:23:31 +0000",
       "minecraft:wooded_badlands": "2025-09-14 03:10:11 +0000",
       "minecraft:badlands": "2025-09-14 03:11:38 +0000",
@@ -93,14 +95,17 @@
       "minecraft:cold_ocean": "2025-09-07 00:43:21 +0000",
       "minecraft:forest": "2025-09-06 03:00:04 +0000",
       "minecraft:deep_cold_ocean": "2025-09-07 04:11:01 +0000",
+      "minecraft:ice_spikes": "2025-09-14 03:24:42 +0000",
       "minecraft:frozen_ocean": "2025-09-07 01:32:57 +0000",
       "minecraft:desert": "2025-09-14 03:11:08 +0000",
       "minecraft:deep_frozen_ocean": "2025-09-14 02:31:13 +0000",
+      "minecraft:windswept_forest": "2025-09-14 03:58:56 +0000",
       "minecraft:ocean": "2025-09-06 03:56:50 +0000",
       "minecraft:jungle": "2025-09-07 05:33:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-07 01:04:37 +0000",
       "minecraft:snowy_beach": "2025-09-07 01:33:25 +0000",
       "minecraft:windswept_savanna": "2025-09-14 02:59:21 +0000",
+      "minecraft:warm_ocean": "2025-09-14 03:19:37 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-09-06 04:36:11 +0000",
       "minecraft:flower_forest": "2025-09-06 03:29:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-07 01:59:04 +0000",
@@ -169,6 +174,7 @@
       "rocky_shrubland": "2025-09-07 05:46:07 +0000",
       "scrubland": "2025-09-06 04:45:53 +0000",
       "bayou": "2025-09-14 03:02:13 +0000",
+      "erupting_inferno": "2025-09-14 04:15:45 +0000",
       "floodplain": "2025-09-06 04:33:19 +0000",
       "highland": "2025-09-07 00:48:14 +0000",
       "jacaranda_glade": "2025-09-06 04:52:03 +0000",
@@ -177,15 +183,19 @@
       "cold_desert": "2025-09-07 03:41:55 +0000",
       "old_growth_woodland": "2025-09-07 05:35:11 +0000",
       "maple_woods": "2025-09-07 00:48:19 +0000",
+      "crystalline_chasm": "2025-09-14 04:19:24 +0000",
+      "withered_abyss": "2025-09-14 04:18:41 +0000",
       "orchard": "2025-09-06 04:49:49 +0000",
       "field": "2025-09-07 03:28:03 +0000",
       "overgrown_greens": "2025-09-07 01:59:25 +0000",
       "mediterranean_forest": "2025-09-06 04:39:26 +0000",
       "coniferous_forest": "2025-09-06 02:22:42 +0000",
       "forested_field": "2025-09-08 02:49:37 +0000",
+      "wasteland": "2025-09-14 03:18:42 +0000",
       "old_growth_dead_forest": "2025-09-07 01:29:57 +0000",
       "lush_desert": "2025-09-14 03:09:55 +0000",
       "redwood_forest": "2025-09-06 03:05:52 +0000",
+      "visceral_heap": "2025-09-14 04:21:01 +0000",
       "aspen_glade": "2025-09-07 00:46:53 +0000",
       "dune_beach": "2025-09-06 03:10:57 +0000",
       "seasonal_forest": "2025-09-07 03:43:35 +0000",
@@ -201,6 +211,7 @@
       "tundra": "2025-09-14 02:41:10 +0000",
       "glowing_grotto": "2025-09-07 01:09:02 +0000",
       "gravel_beach": "2025-09-07 03:53:40 +0000",
+      "undergrowth": "2025-09-14 04:47:28 +0000",
       "rainforest": "2025-09-07 01:55:45 +0000",
       "crag": "2025-09-07 00:49:45 +0000",
       "snowy_maple_woods": "2025-09-07 01:31:58 +0000"
@@ -254,15 +265,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-06 02:42:53 +0000",
+      "minecraft:blaze": "2025-09-14 04:16:17 +0000",
       "minecraft:skeleton": "2025-09-06 02:29:23 +0000",
       "minecraft:ravager": "2025-09-08 02:55:29 +0000",
+      "minecraft:ghast": "2025-09-14 04:07:06 +0000",
       "minecraft:vindicator": "2025-09-06 02:47:37 +0000",
       "minecraft:spider": "2025-09-06 03:57:06 +0000",
+      "minecraft:piglin_brute": "2025-09-14 04:36:31 +0000",
       "minecraft:creeper": "2025-09-07 04:54:08 +0000",
       "minecraft:slime": "2025-09-08 01:21:21 +0000",
       "minecraft:evoker": "2025-09-08 02:55:42 +0000",
       "quark:forgotten": "2025-09-07 02:40:29 +0000",
+      "minecraft:wither_skeleton": "2025-09-14 04:16:31 +0000",
+      "minecraft:husk": "2025-09-14 03:19:30 +0000",
       "minecraft:cave_spider": "2025-09-07 01:14:44 +0000",
+      "minecraft:piglin": "2025-09-14 04:28:07 +0000",
       "minecraft:vex": "2025-09-08 02:55:33 +0000",
       "minecraft:zombie": "2025-09-06 03:20:13 +0000",
       "minecraft:zombie_villager": "2025-09-08 03:11:46 +0000"
@@ -663,6 +680,82 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2025-09-14 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-09-14 04:02:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-09-14 04:07:52 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-09-14 04:22:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-14 04:27:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-14 04:14:07 +0000",
+      "minecraft:nether_wastes": "2025-09-14 04:06:55 +0000",
+      "minecraft:soul_sand_valley": "2025-09-14 04:06:43 +0000",
+      "minecraft:basalt_deltas": "2025-09-14 04:16:02 +0000",
+      "minecraft:warped_forest": "2025-09-14 04:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-14 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-09-14 04:35:05 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-09-14 04:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-14 04:06:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-14 04:16:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-14 04:16:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-09-14 04:28:19 +0000"
     },
     "done": true
   },

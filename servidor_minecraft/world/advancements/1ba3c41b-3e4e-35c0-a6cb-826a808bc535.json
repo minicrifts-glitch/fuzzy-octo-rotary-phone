@@ -71,9 +71,12 @@
       "minecraft:cherry_grove": "2025-09-06 03:30:08 +0000",
       "minecraft:beach": "2025-09-06 03:56:46 +0000",
       "minecraft:river": "2025-09-06 03:31:32 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-14 04:15:46 +0000",
       "minecraft:cold_ocean": "2025-09-13 05:52:36 +0000",
       "minecraft:forest": "2025-09-06 03:44:35 +0000",
       "minecraft:ocean": "2025-09-14 03:12:22 +0000",
+      "minecraft:flower_forest": "2025-09-14 04:06:48 +0000",
+      "minecraft:old_growth_birch_forest": "2025-09-14 04:00:06 +0000",
       "minecraft:deep_dark": "2025-09-14 02:37:12 +0000",
       "minecraft:meadow": "2025-09-14 02:22:55 +0000",
       "minecraft:plains": "2025-09-06 03:11:12 +0000"
@@ -84,11 +87,15 @@
     "criteria": {
       "shrubland": "2025-09-13 04:19:06 +0000",
       "rocky_shrubland": "2025-09-13 04:19:28 +0000",
+      "scrubland": "2025-09-14 04:12:34 +0000",
       "highland": "2025-09-06 03:46:20 +0000",
       "jacaranda_glade": "2025-09-06 04:10:00 +0000",
+      "mystic_grove": "2025-09-14 04:00:04 +0000",
       "maple_woods": "2025-09-06 04:17:59 +0000",
       "orchard": "2025-09-06 04:12:32 +0000",
+      "field": "2025-09-14 03:41:17 +0000",
       "overgrown_greens": "2025-09-13 04:19:32 +0000",
+      "mediterranean_forest": "2025-09-14 04:14:09 +0000",
       "coniferous_forest": "2025-09-06 03:33:11 +0000",
       "spider_nest": "2025-09-06 04:14:04 +0000",
       "redwood_forest": "2025-09-13 04:23:12 +0000",
@@ -99,7 +106,8 @@
       "lavender_field": "2025-09-06 03:50:08 +0000",
       "fir_clearing": "2025-09-13 04:18:35 +0000",
       "pumpkin_patch": "2025-09-06 03:44:54 +0000",
-      "prairie": "2025-09-06 03:50:17 +0000"
+      "prairie": "2025-09-06 03:50:17 +0000",
+      "crag": "2025-09-14 05:07:50 +0000"
     },
     "done": false
   },
@@ -277,9 +285,9 @@
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
+  "born_in_chaos_v1:the_wind_darkening": {
     "criteria": {
-      "diamond_helmet": "2025-09-14 02:59:30 +0000"
+      "the_wind_darkening_0": "2025-09-14 02:25:03 +0000"
     },
     "done": true
   },
@@ -289,15 +297,51 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-09-14 02:25:03 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:deceived_hopes": {
     "criteria": {
       "deceived_hopes_0": "2025-09-14 02:53:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-09-14 02:59:30 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-14 03:19:15 +0000"
+    },
+    "done": true
+  },
+  "quark:get_all_blossom_saplings": {
+    "criteria": {
+      "yellow": "2025-09-14 03:32:16 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-09-14 05:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-09-14 05:15:43 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-14 05:15:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-14 05:15:42 +0000"
     },
     "done": true
   },

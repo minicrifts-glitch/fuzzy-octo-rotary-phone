@@ -200,6 +200,7 @@
       "rocky_shrubland": "2025-09-07 05:50:31 +0000",
       "scrubland": "2025-09-07 04:56:10 +0000",
       "bayou": "2025-09-13 05:53:40 +0000",
+      "erupting_inferno": "2025-09-14 04:10:14 +0000",
       "floodplain": "2025-09-07 05:12:41 +0000",
       "lush_savanna": "2025-09-07 05:12:07 +0000",
       "highland": "2025-09-07 00:02:03 +0000",
@@ -210,6 +211,7 @@
       "cold_desert": "2025-09-14 00:36:16 +0000",
       "old_growth_woodland": "2025-09-07 05:12:10 +0000",
       "maple_woods": "2025-09-06 03:57:18 +0000",
+      "crystalline_chasm": "2025-09-14 04:09:19 +0000",
       "field": "2025-09-07 03:57:18 +0000",
       "orchard": "2025-09-07 05:50:43 +0000",
       "overgrown_greens": "2025-09-07 04:09:16 +0000",
@@ -222,6 +224,7 @@
       "wasteland": "2025-09-07 05:06:17 +0000",
       "lush_desert": "2025-09-07 05:11:40 +0000",
       "redwood_forest": "2025-09-07 04:26:06 +0000",
+      "visceral_heap": "2025-09-14 04:51:37 +0000",
       "aspen_glade": "2025-09-06 03:58:14 +0000",
       "dune_beach": "2025-09-07 04:25:34 +0000",
       "seasonal_forest": "2025-09-06 03:57:09 +0000",
@@ -238,6 +241,7 @@
       "tundra": "2025-09-14 01:01:04 +0000",
       "gravel_beach": "2025-09-06 03:23:05 +0000",
       "glowing_grotto": "2025-09-13 04:41:31 +0000",
+      "undergrowth": "2025-09-14 04:14:36 +0000",
       "rainforest": "2025-09-07 05:12:09 +0000",
       "crag": "2025-09-08 01:28:03 +0000",
       "snowy_maple_woods": "2025-09-13 04:44:13 +0000"
@@ -278,6 +282,7 @@
       "minecraft:spider": "2025-09-07 04:49:31 +0000",
       "minecraft:creeper": "2025-09-07 07:21:08 +0000",
       "minecraft:slime": "2025-09-08 03:02:02 +0000",
+      "minecraft:phantom": "2025-09-14 04:41:12 +0000",
       "minecraft:witch": "2025-09-07 20:57:35 +0000",
       "minecraft:husk": "2025-09-07 22:15:16 +0000",
       "minecraft:cave_spider": "2025-09-07 01:49:28 +0000",
@@ -748,6 +753,12 @@
     },
     "done": true
   },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2025-09-14 02:47:12 +0000"
+    },
+    "done": true
+  },
   "ad_astra:smart_blasting": {
     "criteria": {
       "has_etrionic_blast_furnace": "2025-09-14 02:52:35 +0000"
@@ -760,9 +771,73 @@
     },
     "done": true
   },
-  "ad_astra:under_pressure": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_compressor": "2025-09-14 02:47:12 +0000"
+      "killed_by": "2025-09-14 04:16:26 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-09-14 04:04:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-09-14 04:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-09-14 04:05:45 +0000",
+      "minecraft:nether_wastes": "2025-09-14 04:05:46 +0000",
+      "minecraft:soul_sand_valley": "2025-09-14 04:04:29 +0000",
+      "minecraft:basalt_deltas": "2025-09-14 04:07:57 +0000",
+      "minecraft:warped_forest": "2025-09-14 04:07:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-14 04:04:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_1_rocket": {
+    "criteria": {
+      "has_tier_1_rocket": "2025-09-14 03:52:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-14 04:04:27 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ocean_cleanup": {
+    "criteria": {
+      "oil_bucket": "2025-09-14 03:38:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-09-14 04:09:09 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-09-14 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-09-14 04:11:58 +0000"
     },
     "done": true
   },
