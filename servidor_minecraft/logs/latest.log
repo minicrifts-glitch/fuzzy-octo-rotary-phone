@@ -2678,3 +2678,5 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [14Sep2025 00:31:38.981] [spark-async-sampler-worker-thread/WARN] [spark/]: Timed out waiting for world statistics
 [14Sep2025 00:31:42.584] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9838ms or 196 ticks behind
 [14Sep2025 00:37:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[14Sep2025 00:37:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was slain by Tongbi, the Sculptor
+[14Sep2025 00:38:05.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to 1203.500000, 193.500000, -573.500000]
