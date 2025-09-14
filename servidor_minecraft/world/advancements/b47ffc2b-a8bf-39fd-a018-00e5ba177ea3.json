@@ -704,18 +704,6 @@
     },
     "done": false
   },
-  "alienevo:obtain_core": {
-    "criteria": {
-      "prototype_core": "2025-09-13 06:12:29 +0000"
-    },
-    "done": true
-  },
-  "idas:ruins_of_the_deep": {
-    "criteria": {
-      "in_ruins_of_the_deep": "2025-09-13 06:03:20 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/orcas_might": {
     "criteria": {
       "all_effects": "2025-09-13 05:21:59 +0000"
@@ -731,6 +719,18 @@
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-09-13 05:55:19 +0000"
+    },
+    "done": true
+  },
+  "idas:ruins_of_the_deep": {
+    "criteria": {
+      "in_ruins_of_the_deep": "2025-09-13 06:03:20 +0000"
+    },
+    "done": true
+  },
+  "alienevo:obtain_core": {
+    "criteria": {
+      "prototype_core": "2025-09-13 06:12:29 +0000"
     },
     "done": true
   },
