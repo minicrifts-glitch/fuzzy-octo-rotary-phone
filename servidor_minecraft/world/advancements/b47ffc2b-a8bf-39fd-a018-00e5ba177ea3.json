@@ -69,6 +69,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-07 22:19:31 +0000",
       "minecraft:old_growth_pine_taiga": "2025-09-07 06:02:42 +0000",
+      "minecraft:mushroom_fields": "2025-09-14 20:50:37 +0000",
       "minecraft:taiga": "2025-09-07 03:56:50 +0000",
       "minecraft:deep_ocean": "2025-09-07 04:33:12 +0000",
       "minecraft:frozen_river": "2025-09-07 22:19:33 +0000",
@@ -857,6 +858,78 @@
   "create:mechanical_press": {
     "criteria": {
       "0": "2025-09-14 05:48:37 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-09-14 19:57:37 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-09-14 20:29:02 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:pumpkin_sir": {
+    "criteria": {
+      "pumpkin_sir_0": "2025-09-14 20:34:44 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:symphonyof_chaos": {
+    "criteria": {
+      "symphonyof_chaos_1": "2025-09-14 20:34:45 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_6": "2025-09-14 20:34:45 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:trickor_treat": {
+    "criteria": {
+      "trickor_treat_0": "2025-09-14 20:35:56 +0000",
+      "trickor_treat_2": "2025-09-14 20:35:55 +0000",
+      "trickor_treat_3": "2025-09-14 20:35:55 +0000",
+      "trickor_treat_4": "2025-09-14 20:35:55 +0000",
+      "trickor_treat_5": "2025-09-14 20:35:55 +0000",
+      "trickor_treat_6": "2025-09-14 20:35:56 +0000",
+      "trickor_treat_7": "2025-09-14 20:35:56 +0000"
+    },
+    "done": false
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-09-14 21:35:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-14 21:33:10 +0000"
+    },
+    "done": true
+  },
+  "create:encased_fan": {
+    "criteria": {
+      "0": "2025-09-14 21:33:32 +0000"
+    },
+    "done": true
+  },
+  "idas:desert_pyramid": {
+    "criteria": {
+      "in_desert_pyramid": "2025-09-14 22:31:01 +0000"
+    },
+    "done": true
+  },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-09-14 21:35:02 +0000"
     },
     "done": true
   },
