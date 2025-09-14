@@ -736,5 +736,35 @@
     },
     "done": true
   },
+  "ad_astra:carbon_footprint": {
+    "criteria": {
+      "has_coal_generator": "2025-09-14 02:38:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:ad_astra": {
+    "criteria": {
+      "has_coal_generator": "2025-09-14 02:38:37 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:smart_blasting": {
+    "criteria": {
+      "has_etrionic_blast_furnace": "2025-09-14 02:52:35 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:rocket_science": {
+    "criteria": {
+      "has_nasa_workbench": "2025-09-14 02:58:13 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:under_pressure": {
+    "criteria": {
+      "has_compressor": "2025-09-14 02:47:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

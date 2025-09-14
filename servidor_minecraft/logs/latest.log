@@ -2732,3 +2732,122 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [14Sep2025 02:07:06.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/43717, l='ServerLevel[world]', x=8854.50, y=92.26, z=-714.50] died, message: 'Farmer was shot by Pillager'
 [14Sep2025 02:07:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 4 [Code Tablet (Master Control)] to srestrepoj]
 [14Sep2025 02:07:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan was slain by Juli_CT05
+[14Sep2025 02:10:54.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZEUSVII: Teleported ZEUSVII to Juli_CT05]
+[14Sep2025 02:15:29.014] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/53959, l='ServerLevel[world]', x=-109.44, y=111.00, z=-69.52] died, message: 'Villager was pummeled by Pyronite'
+[14Sep2025 02:17:14.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZEUSVII: Teleported ZEUSVII to 7382.500000, 80.500000, -698.500000]
+[14Sep2025 02:17:19.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:17:19.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:19:13.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was slain by Baby Spider
+[14Sep2025 02:19:23.331] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to -23.500000, 70.500000, -327.500000]
+[14Sep2025 02:20:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien withered away
+[14Sep2025 02:20:27.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to 8320.500000, 68.500000, -585.500000]
+[14Sep2025 02:21:10.400] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 7718,59,-1462,minecraft:overworld as filled
+[14Sep2025 02:21:26.499] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 294,82,566,minecraft:overworld as filled
+[14Sep2025 02:22:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien withered away
+[14Sep2025 02:22:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:22:04.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:22:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:22:04.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [@: Executed 4 command(s) from function 'alienevo:abilities/pyronite_absorb']
+[14Sep2025 02:22:09.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to 8177.500000, 68.500000, -573.500000]
+[14Sep2025 02:22:49.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has reached the goal [Horror of the Depths]
+[14Sep2025 02:25:03.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran has made the advancement [The Wind Darkening]
+[14Sep2025 02:26:30.362] [Worker-Main-113/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Sep2025 02:27:18.062] [Worker-Main-113/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Sep2025 02:27:56.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Teleported Juli_CT05 to Pyronite]
+[14Sep2025 02:27:57.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 fell from a high place
+[14Sep2025 02:28:14.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to 7941.500000, 131.500000, -2614.500000]
+[14Sep2025 02:28:21.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to Pyronite]
+[14Sep2025 02:29:07.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien has made the advancement [Pic-A-Nic Basket?]
+[14Sep2025 02:29:16.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lepidopterran has made the advancement [Diamonds!]
+[14Sep2025 02:29:46.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to -112.500000, 115.500000, -106.500000]
+[14Sep2025 02:30:28.046] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII moved wrongly!
+[14Sep2025 02:31:49.321] [Worker-Main-109/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[14Sep2025 02:33:05.128] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 8042,68,-2282,minecraft:overworld as filled
+[14Sep2025 02:35:00.937] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 8026,60,-1466,minecraft:overworld as filled
+[14Sep2025 02:35:02.444] [Worker-Main-112/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Sep2025 02:35:05.486] [Worker-Main-113/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=8437, y=70, z=-1507}
+[14Sep2025 02:35:05.486] [Worker-Main-113/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=8438, y=70, z=-1507}
+[14Sep2025 02:35:08.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:35:08.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:35:08.993] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:35:09.084] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:35:09.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:35:09.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved wrongly!
+[14Sep2025 02:36:47.582] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 8474,61,-982,minecraft:overworld as filled
+[14Sep2025 02:37:40.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite was slain by Iron Golem
+[14Sep2025 02:37:44.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [srestrepoj: Teleported srestrepoj to 8213.500000, 79.500000, -1503.500000]
+[14Sep2025 02:38:07.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite was blown up by Creeper
+[14Sep2025 02:38:28.684] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[14Sep2025 02:38:37.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite has made the advancement [Carbon Footprint]
+[14Sep2025 02:38:50.872] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7226ms or 144 ticks behind
+[14Sep2025 02:39:07.876] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2030ms or 40 ticks behind
+[14Sep2025 02:39:55.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vulpimancer: Set own game mode to Creative Mode]
+[14Sep2025 02:39:57.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has completed the challenge [Rude Awakening]
+[14Sep2025 02:40:22.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Life turned out to be a comedy]
+[14Sep2025 02:40:25.173] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[14Sep2025 02:40:25.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Vulpimancer left the game
+[14Sep2025 02:41:11.931] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 9238,99,-1766,minecraft:overworld as filled
+[14Sep2025 02:42:13.939] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:38279] logged in with entity id 153858 at (126.29187364140775, 109.0, -215.82884800874672)
+[14Sep2025 02:42:13.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[14Sep2025 02:42:14.356] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[14Sep2025 02:42:14.381] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII moved too quickly! 4.510968300062814,-2.2994080441121127,9.30655387755587
+[14Sep2025 02:42:27.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Vulpimancer: Set own game mode to Survival Mode]
+[14Sep2025 02:43:06.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII lost connection: Disconnected
+[14Sep2025 02:43:06.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
+[14Sep2025 02:44:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien has reached the goal [Horror Under the Mantle]
+[14Sep2025 02:47:12.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 has made the advancement [Under Pressure]
+[14Sep2025 02:48:39.674] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: srestrepoj moved wrongly!
+[14Sep2025 02:49:47.984] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUSVII[/127.142.126.229:47083] logged in with entity id 166107 at (9549.432037351622, 157.42799542876375, -1521.618639951035)
+[14Sep2025 02:49:48.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII joined the game
+[14Sep2025 02:49:48.406] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (bf8a6a57-49e9-34ba-967c-bb5388365fa6)
+[14Sep2025 02:51:06.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII moved wrongly!
+[14Sep2025 02:51:59.180] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII moved too quickly! -1.0919520133957121,-0.5933640997913301,-10.691666870637619
+[14Sep2025 02:52:21.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to 1813.500000, 59.500000, -2792.500000]
+[14Sep2025 02:52:35.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite has made the advancement [Smart Blasting]
+[14Sep2025 02:53:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite has made the advancement [Deceived Hopes]
+[14Sep2025 02:54:19.575] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/180516, l='ServerLevel[world]', x=1936.50, y=40.00, z=-3344.50]
+[14Sep2025 02:56:25.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to Pyronite]
+[14Sep2025 02:56:48.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien has reached the goal [Exorcism]
+[14Sep2025 02:57:02.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to -112.500000, 115.500000, -106.500000]
+[14Sep2025 02:58:13.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite has made the advancement [Rocket Science]
+[14Sep2025 02:59:30.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thecum32 has made the advancement [Cover Me with Diamonds]
+[14Sep2025 03:00:48.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien has made the advancement [Good Demoman]
+[14Sep2025 03:02:41.073] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2342,60,-4518,minecraft:overworld as filled
+[14Sep2025 03:03:26.875] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZEUSVII moved too quickly! -10.562738387666286,-1.8729875892248629,-1.0556529618152126
+[14Sep2025 03:05:24.372] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 2874,63,-5050,minecraft:overworld as filled
+[14Sep2025 03:05:35.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Petrosapien has made the advancement [Mine? Mine? Mine?]
+[14Sep2025 03:08:55.846] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at -762,60,-362,minecraft:overworld as filled
+[14Sep2025 03:09:50.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
+[14Sep2025 03:10:39.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Tunnel Treasures]
+[14Sep2025 03:11:10.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite has made the advancement [Eye of The Storm]
+[14Sep2025 03:11:37.642] [Worker-Main-112/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[14Sep2025 03:12:51.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved too quickly! -6.788570175995574,0.0,-7.846580607173934
+[14Sep2025 03:13:03.509] [Server thread/INFO] [KubeJS Server/]: addonpack_alienevo:kubejs_scripts/pod_loot.js#177: Marked pod at 4438,94,-4566,minecraft:overworld as filled
+[14Sep2025 03:13:04.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved too quickly! -5.203733507303241,0.0,9.277129031470281
+[14Sep2025 03:14:03.343] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thecum32 moved too quickly! 3.07638105746787,-0.9241667364474182,10.081958031400973
+[14Sep2025 03:14:09.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[14Sep2025 03:14:09.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[14Sep2025 03:14:09.507] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: srestrepoj lost connection: Server closed
+[14Sep2025 03:14:09.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite left the game
+[14Sep2025 03:14:09.540] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Server closed
+[14Sep2025 03:14:09.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Piscciss Volann left the game
+[14Sep2025 03:14:09.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds

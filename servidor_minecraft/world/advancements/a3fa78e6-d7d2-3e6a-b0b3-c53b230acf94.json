@@ -42,7 +42,9 @@
       "minecraft:river": "2025-09-07 00:50:58 +0000",
       "minecraft:lukewarm_ocean": "2025-09-07 06:02:05 +0000",
       "minecraft:stony_shore": "2025-09-07 06:00:55 +0000",
+      "minecraft:snowy_plains": "2025-09-14 02:30:50 +0000",
       "minecraft:dripstone_caves": "2025-09-07 04:52:23 +0000",
+      "minecraft:snowy_taiga": "2025-09-14 02:30:31 +0000",
       "minecraft:swamp": "2025-09-08 02:42:24 +0000",
       "minecraft:cold_ocean": "2025-09-07 22:38:32 +0000",
       "minecraft:forest": "2025-09-07 03:12:18 +0000",
@@ -239,6 +241,7 @@
       "marsh": "2025-09-08 02:41:28 +0000",
       "old_growth_woodland": "2025-09-07 05:14:31 +0000",
       "orchard": "2025-09-07 05:08:18 +0000",
+      "field": "2025-09-14 02:29:54 +0000",
       "moor": "2025-09-08 01:15:24 +0000",
       "mediterranean_forest": "2025-09-07 05:38:24 +0000",
       "coniferous_forest": "2025-09-07 00:38:09 +0000",
@@ -254,10 +257,14 @@
       "volcanic_plains": "2025-09-07 05:23:45 +0000",
       "lavender_field": "2025-09-08 01:14:23 +0000",
       "fir_clearing": "2025-09-07 01:21:30 +0000",
+      "pumpkin_patch": "2025-09-14 03:03:32 +0000",
       "prairie": "2025-09-07 05:09:01 +0000",
       "grassland": "2025-09-08 01:15:35 +0000",
+      "snowy_coniferous_forest": "2025-09-14 02:30:04 +0000",
       "glowing_grotto": "2025-09-07 23:21:56 +0000",
-      "rainforest": "2025-09-07 05:13:27 +0000"
+      "gravel_beach": "2025-09-14 03:03:03 +0000",
+      "rainforest": "2025-09-07 05:13:27 +0000",
+      "ominous_woods": "2025-09-14 02:46:05 +0000"
     },
     "done": false
   },
@@ -275,13 +282,16 @@
       "minecraft:vindicator": "2025-09-07 22:35:52 +0000",
       "minecraft:spider": "2025-09-07 00:55:01 +0000",
       "minecraft:creeper": "2025-09-07 22:51:51 +0000",
+      "minecraft:evoker": "2025-09-14 02:46:48 +0000",
       "quark:forgotten": "2025-09-08 01:30:04 +0000",
       "minecraft:witch": "2025-09-07 05:53:10 +0000",
       "minecraft:cave_spider": "2025-09-07 00:54:20 +0000",
       "minecraft:stray": "2025-09-07 00:55:10 +0000",
+      "minecraft:enderman": "2025-09-14 03:00:25 +0000",
       "minecraft:vex": "2025-09-07 00:56:32 +0000",
       "minecraft:zombie": "2025-09-07 00:54:28 +0000",
-      "minecraft:drowned": "2025-09-08 00:55:52 +0000"
+      "minecraft:drowned": "2025-09-08 00:55:52 +0000",
+      "minecraft:zombie_villager": "2025-09-14 02:56:39 +0000"
     },
     "done": false
   },
@@ -637,6 +647,42 @@
   "quark:get_bottled_cloud": {
     "criteria": {
       "get_bottled_cloud": "2025-09-08 03:11:18 +0000"
+    },
+    "done": true
+  },
+  "create:brass": {
+    "criteria": {
+      "0": "2025-09-14 03:08:44 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-09-14 03:05:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:good_demoman": {
+    "criteria": {
+      "good_demoman_0": "2025-09-14 03:00:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-09-14 02:29:07 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-09-14 02:56:48 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-09-14 02:44:03 +0000"
     },
     "done": true
   },
