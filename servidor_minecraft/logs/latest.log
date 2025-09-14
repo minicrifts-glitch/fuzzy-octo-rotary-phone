@@ -2680,3 +2680,7 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [14Sep2025 00:37:19.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved wrongly!
 [14Sep2025 00:37:57.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was slain by Tongbi, the Sculptor
 [14Sep2025 00:38:05.904] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to 1203.500000, 193.500000, -573.500000]
+[14Sep2025 00:58:57.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pyronite was slain by Bluff
+[14Sep2025 00:59:28.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Teleported Ectonurite to 1214.500000, 162.500000, -593.500000]
+[14Sep2025 01:00:16.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved too quickly! 1.273539644529592,10.298677158128239,1.1624142067078083
+[14Sep2025 01:03:18.429] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:machine_stronghold took 65 ms
