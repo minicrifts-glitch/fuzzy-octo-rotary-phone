@@ -2718,3 +2718,17 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [14Sep2025 01:55:15.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 2 [Code Tablet (Master Control)] to Juli_CT05]
 [14Sep2025 01:55:25.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 2 [Code Tablet (Master Control)] to Juli_CT05]
 [14Sep2025 01:57:31.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 4 [Code Tablet (Master Control)] to thecum32]
+[14Sep2025 01:59:22.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvanic Mechamorph was slain by Zombie Bruiser
+[14Sep2025 02:02:38.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZEUSVII[/127.142.126.229:46459] logged in with entity id 41017 at (7383.252718449732, 79.5, -697.0249355015076)
+[14Sep2025 02:02:38.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZEUSVII joined the game
+[14Sep2025 02:02:38.857] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (bf8a6a57-49e9-34ba-967c-bb5388365fa6)
+[14Sep2025 02:02:40.763] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 moved too quickly! 1.677359663776251,-0.20326439933128881,10.136492511731937
+[14Sep2025 02:02:40.785] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2039ms or 40 ticks behind
+[14Sep2025 02:02:51.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pyronite: Teleported Pyronite to thecum32]
+[14Sep2025 02:03:12.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 4 [Code Tablet (Master Control)] to ZEUSVII]
+[14Sep2025 02:06:25.386] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: srestrepoj[/127.214.84.187:44035] logged in with entity id 43507 at (8847.002715498993, 84.0625, -703.8937676620618)
+[14Sep2025 02:06:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: srestrepoj joined the game
+[14Sep2025 02:06:25.721] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (a3fa78e6-d7d2-3e6a-b0b3-c53b230acf94)
+[14Sep2025 02:07:06.331] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/43717, l='ServerLevel[world]', x=8854.50, y=92.26, z=-714.50] died, message: 'Farmer was shot by Pillager'
+[14Sep2025 02:07:43.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Juli_CT05: Gave 4 [Code Tablet (Master Control)] to srestrepoj]
+[14Sep2025 02:07:56.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Galvan was slain by Juli_CT05

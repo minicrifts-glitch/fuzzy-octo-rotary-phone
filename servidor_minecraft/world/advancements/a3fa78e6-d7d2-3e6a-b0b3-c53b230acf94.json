@@ -514,81 +514,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/voluntary_exile": {
+  "idas:tinkers_workshop": {
     "criteria": {
-      "voluntary_exile": "2025-09-08 02:59:33 +0000"
-    },
-    "done": true
-  },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2025-09-08 02:46:02 +0000"
-    },
-    "done": true
-  },
-  "create:andesite_alloy": {
-    "criteria": {
-      "0": "2025-09-08 02:08:24 +0000"
-    },
-    "done": true
-  },
-  "idas:bearclaw_inn": {
-    "criteria": {
-      "in_bearclaw_inn": "2025-09-08 02:47:55 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_ruins": {
-    "criteria": {
-      "abyssal_ruins": "2025-09-08 02:30:53 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/banana": {
-    "criteria": {
-      "banana": "2025-09-08 03:05:06 +0000"
-    },
-    "done": true
-  },
-  "idas:pillager_fortress": {
-    "criteria": {
-      "in_pillager_fortress": "2025-09-08 02:55:37 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/discover_abyssal_chasm": {
-    "criteria": {
-      "discover": "2025-09-08 02:25:08 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
-    "criteria": {
-      "lifeturnedouttobeacomedy_0": "2025-09-08 02:45:50 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/cooked_dinosaur_chop": {
-    "criteria": {
-      "cooked_dinosaur_chop": "2025-09-08 02:21:00 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horrorofthe_depths": {
-    "criteria": {
-      "horrorofthe_depths_0": "2025-09-08 02:39:24 +0000"
-    },
-    "done": true
-  },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-09-08 02:52:58 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:disgusting_lootbox": {
-    "criteria": {
-      "disgusting_lootbox_0": "2025-09-08 02:39:54 +0000"
+      "in_tinkers_workshop": "2025-09-08 02:01:54 +0000"
     },
     "done": true
   },
@@ -598,9 +526,9 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/stalked_by_deep_one": {
+  "create:andesite_alloy": {
     "criteria": {
-      "stalked_by_deep_one": "2025-09-08 02:36:08 +0000"
+      "0": "2025-09-08 02:08:24 +0000"
     },
     "done": true
   },
@@ -610,21 +538,15 @@
     },
     "done": true
   },
-  "create:copper": {
+  "alexscaves:alexscaves/cooked_dinosaur_chop": {
     "criteria": {
-      "0": "2025-09-08 02:33:05 +0000"
+      "cooked_dinosaur_chop": "2025-09-08 02:21:00 +0000"
     },
     "done": true
   },
-  "supplementaries:husbandry/soap": {
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
     "criteria": {
-      "stew": "2025-09-08 02:48:47 +0000"
-    },
-    "done": true
-  },
-  "quark:get_bottled_cloud": {
-    "criteria": {
-      "get_bottled_cloud": "2025-09-08 03:11:18 +0000"
+      "discover": "2025-09-08 02:25:08 +0000"
     },
     "done": true
   },
@@ -634,9 +556,87 @@
     },
     "done": true
   },
-  "idas:tinkers_workshop": {
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
     "criteria": {
-      "in_tinkers_workshop": "2025-09-08 02:01:54 +0000"
+      "abyssal_ruins": "2025-09-08 02:30:53 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-09-08 02:33:05 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-09-08 02:36:08 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:horrorofthe_depths": {
+    "criteria": {
+      "horrorofthe_depths_0": "2025-09-08 02:39:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:disgusting_lootbox": {
+    "criteria": {
+      "disgusting_lootbox_0": "2025-09-08 02:39:54 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-09-08 02:45:50 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-09-08 02:46:02 +0000"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-09-08 02:47:55 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:husbandry/soap": {
+    "criteria": {
+      "stew": "2025-09-08 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-08 02:52:58 +0000"
+    },
+    "done": true
+  },
+  "idas:pillager_fortress": {
+    "criteria": {
+      "in_pillager_fortress": "2025-09-08 02:55:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-08 02:59:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-09-08 03:05:06 +0000"
+    },
+    "done": true
+  },
+  "quark:get_bottled_cloud": {
+    "criteria": {
+      "get_bottled_cloud": "2025-09-08 03:11:18 +0000"
     },
     "done": true
   },
