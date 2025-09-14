@@ -2686,3 +2686,14 @@ java.lang.Exception: Error: iceandfire:dread_lich is not a valid entity ID!
 [14Sep2025 01:03:18.429] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element alienevo:machine_stronghold took 65 ms
 [14Sep2025 01:09:38.252] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
 [14Sep2025 01:09:38.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 left the game
+[14Sep2025 01:43:20.022] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:36715] logged in with entity id 35104 at (-107.47749139301408, 114.0, -106.10817721488739)
+[14Sep2025 01:43:20.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[14Sep2025 01:43:20.306] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[14Sep2025 01:44:30.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ectonurite: Set own game mode to Creative Mode]
+[14Sep2025 01:45:07.854] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[14Sep2025 01:45:07.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite left the game
+[14Sep2025 01:47:11.972] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juli_CT05[/127.170.219.125:52897] logged in with entity id 35976 at (-102.94449214399661, 111.0, -79.37145436536046)
+[14Sep2025 01:47:12.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juli_CT05 joined the game
+[14Sep2025 01:47:12.366] [Server thread/ERROR] [net.threetag.palladium.Palladium/]: Was not able to read user's supporter data! (b47ffc2b-a8bf-39fd-a018-00e5ba177ea3)
+[14Sep2025 01:48:05.152] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juli_CT05 lost connection: Disconnected
+[14Sep2025 01:48:05.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ectonurite left the game
