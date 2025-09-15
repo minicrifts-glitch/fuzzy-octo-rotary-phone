@@ -70,6 +70,8 @@
       "minecraft:snowy_slopes": "2025-09-14 21:51:55 +0000",
       "minecraft:deep_ocean": "2025-09-14 03:12:39 +0000",
       "minecraft:cherry_grove": "2025-09-06 03:30:08 +0000",
+      "minecraft:wooded_badlands": "2025-09-14 23:00:35 +0000",
+      "minecraft:badlands": "2025-09-14 23:00:45 +0000",
       "minecraft:beach": "2025-09-06 03:56:46 +0000",
       "minecraft:sparse_jungle": "2025-09-14 22:20:09 +0000",
       "minecraft:river": "2025-09-06 03:31:32 +0000",
@@ -99,6 +101,7 @@
       "highland": "2025-09-06 03:46:20 +0000",
       "jacaranda_glade": "2025-09-06 04:10:00 +0000",
       "mystic_grove": "2025-09-14 04:00:04 +0000",
+      "old_growth_woodland": "2025-09-14 23:04:13 +0000",
       "maple_woods": "2025-09-06 04:17:59 +0000",
       "orchard": "2025-09-06 04:12:32 +0000",
       "field": "2025-09-14 03:41:17 +0000",
@@ -223,8 +226,10 @@
       "minecraft:skeleton": "2025-09-13 04:28:09 +0000",
       "minecraft:spider": "2025-09-06 04:21:12 +0000",
       "minecraft:creeper": "2025-09-13 04:43:02 +0000",
+      "minecraft:husk": "2025-09-14 22:53:52 +0000",
       "minecraft:cave_spider": "2025-09-14 21:48:59 +0000",
       "minecraft:enderman": "2025-09-13 04:29:41 +0000",
+      "minecraft:stray": "2025-09-14 22:46:22 +0000",
       "minecraft:zombie": "2025-09-06 04:04:05 +0000",
       "minecraft:zombie_villager": "2025-09-13 04:12:59 +0000"
     },
@@ -444,15 +449,9 @@
     },
     "done": true
   },
-  "idas:desert_pyramid": {
+  "lootr:25loot": {
     "criteria": {
-      "in_desert_pyramid": "2025-09-14 22:31:10 +0000"
-    },
-    "done": true
-  },
-  "lootr:50loot": {
-    "criteria": {
-      "loot_stat": "2025-09-14 22:34:22 +0000"
+      "loot_stat": "2025-09-14 22:22:57 +0000"
     },
     "done": true
   },
@@ -468,9 +467,21 @@
     },
     "done": true
   },
-  "lootr:25loot": {
+  "idas:desert_pyramid": {
     "criteria": {
-      "loot_stat": "2025-09-14 22:22:57 +0000"
+      "in_desert_pyramid": "2025-09-14 22:31:10 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-09-14 22:34:22 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-09-14 22:53:44 +0000"
     },
     "done": true
   },

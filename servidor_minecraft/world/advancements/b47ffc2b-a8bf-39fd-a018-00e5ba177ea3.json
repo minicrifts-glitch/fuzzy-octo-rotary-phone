@@ -290,6 +290,7 @@
       "quark:wraith": "2025-09-07 04:00:54 +0000",
       "minecraft:enderman": "2025-09-07 18:18:58 +0000",
       "minecraft:silverfish": "2025-09-13 01:11:31 +0000",
+      "minecraft:stray": "2025-09-14 22:45:58 +0000",
       "minecraft:vex": "2025-09-08 03:00:51 +0000",
       "minecraft:zombie": "2025-09-06 23:56:48 +0000",
       "minecraft:drowned": "2025-09-07 22:10:07 +0000",
@@ -903,12 +904,6 @@
     },
     "done": false
   },
-  "create:hand_crank_000": {
-    "criteria": {
-      "0": "2025-09-14 21:35:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-09-14 21:33:10 +0000"
@@ -921,17 +916,29 @@
     },
     "done": true
   },
+  "create:fan_processing": {
+    "criteria": {
+      "0": "2025-09-14 21:35:02 +0000"
+    },
+    "done": true
+  },
+  "create:hand_crank_000": {
+    "criteria": {
+      "0": "2025-09-14 21:35:12 +0000"
+    },
+    "done": true
+  },
   "idas:desert_pyramid": {
     "criteria": {
       "in_desert_pyramid": "2025-09-14 22:31:01 +0000"
     },
     "done": true
   },
-  "create:fan_processing": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "0": "2025-09-14 21:35:02 +0000"
+      "has_sherd": "2025-09-14 22:44:58 +0000"
     },
-    "done": true
+    "done": false
   },
   "DataVersion": 3465
 }

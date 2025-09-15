@@ -75,10 +75,14 @@
       "minecraft:sunflower_plains": "2025-09-07 08:14:06 +0000",
       "minecraft:birch_forest": "2025-09-07 03:16:38 +0000",
       "minecraft:windswept_hills": "2025-09-07 06:04:11 +0000",
+      "minecraft:bamboo_jungle": "2025-09-14 23:18:54 +0000",
+      "minecraft:wooded_badlands": "2025-09-14 23:41:46 +0000",
+      "minecraft:badlands": "2025-09-14 23:41:23 +0000",
       "minecraft:beach": "2025-09-07 02:54:01 +0000",
       "minecraft:dark_forest": "2025-09-07 03:16:25 +0000",
       "minecraft:sparse_jungle": "2025-09-07 06:29:23 +0000",
       "minecraft:river": "2025-09-06 03:36:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-14 23:10:54 +0000",
       "minecraft:snowy_plains": "2025-09-07 02:39:33 +0000",
       "minecraft:stony_shore": "2025-09-07 04:45:27 +0000",
       "minecraft:swamp": "2025-09-14 22:02:59 +0000",
@@ -92,10 +96,14 @@
       "minecraft:ocean": "2025-09-07 03:21:41 +0000",
       "minecraft:jungle": "2025-09-07 06:24:55 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-09-14 20:45:59 +0000",
+      "minecraft:windswept_savanna": "2025-09-14 23:57:23 +0000",
+      "minecraft:warm_ocean": "2025-09-14 23:10:53 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-09-14 23:20:12 +0000",
       "minecraft:flower_forest": "2025-09-07 08:11:09 +0000",
       "minecraft:frozen_peaks": "2025-09-14 20:18:43 +0000",
       "minecraft:old_growth_birch_forest": "2025-09-07 04:42:47 +0000",
       "minecraft:meadow": "2025-09-14 21:21:59 +0000",
+      "minecraft:savanna": "2025-09-14 23:04:08 +0000",
       "minecraft:plains": "2025-09-06 03:32:17 +0000"
     },
     "done": false
@@ -117,8 +125,11 @@
       "woodland": "2025-09-14 21:21:49 +0000",
       "shrubland": "2025-09-07 02:24:04 +0000",
       "rocky_shrubland": "2025-09-07 02:23:36 +0000",
+      "scrubland": "2025-09-14 23:04:11 +0000",
+      "fungal_jungle": "2025-09-14 23:27:09 +0000",
       "bayou": "2025-09-14 22:30:52 +0000",
       "floodplain": "2025-09-14 22:29:39 +0000",
+      "lush_savanna": "2025-09-14 23:43:32 +0000",
       "highland": "2025-09-06 03:41:51 +0000",
       "jacaranda_glade": "2025-09-07 00:49:21 +0000",
       "marsh": "2025-09-07 03:22:54 +0000",
@@ -131,6 +142,7 @@
       "orchard": "2025-09-06 04:04:58 +0000",
       "field": "2025-09-07 03:11:06 +0000",
       "overgrown_greens": "2025-09-07 00:50:23 +0000",
+      "mediterranean_forest": "2025-09-14 23:31:38 +0000",
       "coniferous_forest": "2025-09-06 03:59:48 +0000",
       "spider_nest": "2025-09-06 03:47:01 +0000",
       "forested_field": "2025-09-07 03:11:01 +0000",
@@ -143,7 +155,9 @@
       "dune_beach": "2025-09-07 03:22:26 +0000",
       "seasonal_forest": "2025-09-06 03:36:14 +0000",
       "dead_forest": "2025-09-14 20:19:22 +0000",
+      "volcano": "2025-09-14 23:27:17 +0000",
       "pasture": "2025-09-07 04:59:28 +0000",
+      "rocky_rainforest": "2025-09-14 23:10:59 +0000",
       "volcanic_plains": "2025-09-07 06:31:54 +0000",
       "lavender_field": "2025-09-06 03:53:18 +0000",
       "fir_clearing": "2025-09-07 02:29:38 +0000",
@@ -239,6 +253,7 @@
       "minecraft:spider": "2025-09-06 04:02:53 +0000",
       "minecraft:creeper": "2025-09-07 00:55:01 +0000",
       "minecraft:evoker": "2025-09-14 21:12:57 +0000",
+      "quark:forgotten": "2025-09-14 23:54:41 +0000",
       "minecraft:witch": "2025-09-07 00:56:14 +0000",
       "minecraft:husk": "2025-09-07 07:20:51 +0000",
       "minecraft:cave_spider": "2025-09-06 03:49:09 +0000",
@@ -529,9 +544,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/avoid_vibration": {
+  "born_in_chaos_v1:dismantledto_bones": {
     "criteria": {
-      "avoid_vibration": "2025-09-14 22:34:10 +0000"
+      "dismantledto_bones_0": "2025-09-14 21:52:40 +0000"
     },
     "done": true
   },
@@ -541,15 +556,75 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:dismantledto_bones": {
-    "criteria": {
-      "dismantledto_bones_0": "2025-09-14 21:52:40 +0000"
-    },
-    "done": true
-  },
   "idas:desert_pyramid": {
     "criteria": {
       "in_desert_pyramid": "2025-09-14 22:32:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-14 22:34:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-09-14 23:28:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2025-09-15 00:09:12 +0000"
+    },
+    "done": true
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-09-14 23:50:43 +0000"
+    },
+    "done": true
+  },
+  "quark:get_forgotten_hat": {
+    "criteria": {
+      "get_forgotten_hat": "2025-09-14 23:54:42 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed": "2025-09-14 23:47:37 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-09-14 23:21:29 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_foliaath": {
+    "criteria": {
+      "foliaath": "2025-09-14 23:16:12 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-09-14 23:59:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/guster": {
+    "criteria": {
+      "killed_by": "2025-09-15 00:06:20 +0000"
+    },
+    "done": true
+  },
+  "idas:fishermans_lodge": {
+    "criteria": {
+      "in_fishermans_lodge": "2025-09-15 00:04:04 +0000"
     },
     "done": true
   },
