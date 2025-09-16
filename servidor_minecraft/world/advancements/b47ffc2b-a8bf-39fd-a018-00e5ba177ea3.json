@@ -941,9 +941,9 @@
     },
     "done": false
   },
-  "ad_astra:moon_cheese": {
+  "ad_astra:ti_69": {
     "criteria": {
-      "has_moon_cheese": "2025-09-15 01:22:22 +0000"
+      "has_ti_69": "2025-09-15 00:57:40 +0000"
     },
     "done": true
   },
@@ -959,15 +959,15 @@
     },
     "done": true
   },
-  "ad_astra:oxygen_distributor": {
+  "ad_astra:moon_cheese": {
     "criteria": {
-      "has_oxygen_distributor": "2025-09-15 01:46:25 +0000"
+      "has_moon_cheese": "2025-09-15 01:22:22 +0000"
     },
     "done": true
   },
-  "ad_astra:ti_69": {
+  "ad_astra:oxygen_distributor": {
     "criteria": {
-      "has_ti_69": "2025-09-15 00:57:40 +0000"
+      "has_oxygen_distributor": "2025-09-15 01:46:25 +0000"
     },
     "done": true
   },
